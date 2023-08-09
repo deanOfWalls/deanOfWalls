@@ -24,7 +24,7 @@
 ## Personal Projects
 
 ### CRUD Demo
-    * CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and css for the front-end, containerized using Docker, deployed to the free cloud service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the web application from being put in sleep by the cloud service's inactivity timer by sending HTTP requests to itself using curl. 
+    * CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and <br>css for the front-end, containerized using Docker, deployed to the free cloud <br>service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the <br>web application from being put in sleep by the cloud service's inactivity timer by<br> sending HTTP requests to itself using curl. 
 
     [Live Demo](http://crud_demo.deanwalls.com/)
     [Git Repo](https://github.com/deanOfWalls/CRUD_demo)

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](http://deanwalls.com) to view full portfolio_
+_Click [here](https://deanofwalls.github.io/deanOfWalls/resume.html) to view full portfolio_
 
 
 ### Education
