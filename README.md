@@ -2,10 +2,10 @@
 <table>
    <tr>
       <td>
-         <img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&show_icons=true&theme=dracula">         
+         <img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&hide_rank=true&show_icons=true&theme=react">         
       </td>
       <td>
-         <img alt="deanOfWalls Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanOfWalls&layout=compact&theme=dracula&hide=roff,tsql,c">
+         <img alt="deanOfWalls' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanOfWalls&layout=compact&theme=react&hide=roff,tsql,c">
       </td>
    </tr>
 </table>
