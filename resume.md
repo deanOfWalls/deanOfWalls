@@ -1,3 +1,5 @@
+ <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+ 
  *Click here to download this document as a .pdf*
 
 # Christopher Dean Walls

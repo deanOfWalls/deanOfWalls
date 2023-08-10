@@ -1,0 +1,82 @@
+@media print {
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+  }
+  
+  
+  html, section {
+      background-color: #181a1b;
+    }
+    
+    * {
+      scrollbar-color: #202324 #454a4d;
+    }
+    
+    
+    p, ul, ol, table, pre, dl {
+      color: antiquewhite
+    }
+    header a, header ul, footer p:nth-child(2) {
+      display:none
+    }
+    
+    header {
+      background-color: rgb(27, 87, 72);
+      background-image: none;
+      border-bottom-color: rgb(38, 78, 97);
+    }
+    
+    header ul li {
+      width: 79px;
+      float: left;
+      border-right: 1px solid #3aafbe;
+      border-right-color: rgb(42, 138, 114);
+      height: 38px;
+      text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+    }
+    
+    header h1 {
+      color: rgb(83, 189, 202);
+      text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+    }
+    
+    h1 {
+      color: rgb(83, 189, 202);
+    }
+    
+    h2 {
+      color: rgb(103, 234, 169)
+    }
+    
+    h3 {
+      color: #00c462
+    }
+    
+    h4{
+      color: #008d76;
+    }
+    
+    h5, h6 {
+      color: #00753a
+    }
+    
+    
+    code, pre {
+      color: rgb(200, 195, 188);
+    }
+    
+    a {
+      color: rgb(97, 202, 255);
+      text-decoration-color: currentcolor;
+      text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+    }
+    
+    .wrapper {
+      color:rgb(178, 172, 162);
+      background-color: rgb(34, 37, 39);
+      background-image: none;
+      box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px, rgba(0, 0, 0, 0.45) 0px 3px 10px
+    }
+    
+    strong {
+      color: rgb(211, 207, 201)
+    }
