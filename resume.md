@@ -65,7 +65,7 @@
 ## Education
 
 * Delaware Technical and Community College – DE | Licensed Nursing Practitioner | Diploma/License <br> *2014*
-* Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL License Class A <br> *2019*
+* Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL Class A <br> *2019*
 
 
 
