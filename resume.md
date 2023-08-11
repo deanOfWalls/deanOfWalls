@@ -1,6 +1,6 @@
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
  
- *Click here to download this document as a .pdf*
+ [*Click here to download this document as a .pdf*](https://github.com/deanOfWalls/deanOfWalls/blob/master/Christopher_Dean_Walls_Final_Resume_May12.pdf)
 
 # Christopher Dean Walls
 
@@ -10,10 +10,10 @@
 
 ### Contact Information
 
-* Email: deanofwalls@gmail.com
-* Phone: 302-314-3764
-* Website: http://deanwalls.com
-* LinkedIn: https://www.linkedin.com/in/deanofwalls/
+* Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
+* Phone: [`302-314-3764`](tel:+1-302-314-3764)
+* Website: [`http://deanwalls.com`](http://deanwalls.com)
+* LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
 ### Summary
 
@@ -28,8 +28,8 @@
 ### CRUD Demo
   CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and css for the front-end, containerized using Docker, deployed to the free cloud service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the web application from being put in sleep by the cloud service's inactivity timer by sending HTTP requests to itself using curl. 
 
-[Live Demo](http://crud_demo.deanwalls.com/) <br>
-[Git Repo](https://github.com/deanOfWalls/CRUD_demo)
+* [Live Demo](http://crud_demo.deanwalls.com/) <br>
+* [Git Repo](https://github.com/deanOfWalls/CRUD_demo)
 
 ## Experience
 
@@ -64,7 +64,7 @@
 
 ## Education
 
-* Delaware Technical and Community College – DE | Licensed Nursing Practitioner – Diploma/License <br> *2014*
+* Delaware Technical and Community College – DE | Licensed Nursing Practitioner | Diploma/License <br> *2014*
 * Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL License Class A <br> *2019*
 
 
