@@ -1,6 +1,6 @@
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
  
- [*Click here to download this document as a .pdf*](https://github.com/deanOfWalls/deanOfWalls/blob/master/Christopher_Dean_Walls_Final_Resume_May12.pdf)
+ [*Click here to download this document as a .pdf*](Christopher_Dean_Walls_August2023.pdf)
 
 # Christopher Dean Walls
 
