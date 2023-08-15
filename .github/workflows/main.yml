@@ -1,0 +1,26 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    paths:
+    - 'resume.md'
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v2
+
+    - name: Convert markdown to PDF
+      run: |
+        sudo apt-get install -y pandoc
+        pandoc -s resume.md -o resume.pdf
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add resume.pdf
+        git commit -m "Automatically convert resume.md to PDF" || exit 0
+        git push
