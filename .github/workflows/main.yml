@@ -1,9 +1,3 @@
-- name: Install pdflatex
-  run: sudo apt-get install -y texlive-xetex
-
-- name: Convert markdown to PDF
-  run: pandoc -s resume.md -o resume.pdf
-
 name: Convert Markdown to PDF
 
 on:
@@ -18,10 +12,14 @@ jobs:
     - name: Checkout repository content
       uses: actions/checkout@v2
 
+    - name: Install pandoc
+      run: sudo apt-get install -y pandoc
+
+    - name: Install pdflatex
+      run: sudo apt-get install -y texlive-xetex
+
     - name: Convert markdown to PDF
-      run: |
-        sudo apt-get install -y pandoc
-        pandoc -s resume.md -o resume.pdf
+      run: pandoc -s resume.md -o resume.pdf
 
     - name: Commit and push if changes
       run: |
