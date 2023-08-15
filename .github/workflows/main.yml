@@ -1,4 +1,5 @@
 name: Convert Markdown to PDF
+run: pandoc -s resume.md -o resume.pdf --pdf-engine=xelatex
 
 on:
   push:
