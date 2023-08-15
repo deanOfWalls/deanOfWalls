@@ -1,6 +1,6 @@
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
  
-<button onclick="window.location='./resume.pdf'">Download Resume As PDF</button>
+<button onclick="window.location='./resume.pdf'">Download Resume As A PDF</button>
 
 
 # Christopher Dean Walls
