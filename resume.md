@@ -1,9 +1,6 @@
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
  
- [*Click here to download this document as a .pdf*]<button onclick="downloadAsPDF()">Download as PDF</button>
- <script src="node_modules/markdown-it/dist/markdown-it.min.js"></script>
-<script src="node_modules/html2pdf.js/dist/html2pdf.bundle.min.js"></script>
-<script src="script.js"></script>
+ [*Click here to download this document as a .pdf*](Christopher_Dean_Walls_August2023.pdf)
 
 # Christopher Dean Walls
 
@@ -29,7 +26,6 @@
 ## Personal Projects
 
 ### CRUD Demo
-
   CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and css for the front-end, containerized using Docker, deployed to the free cloud service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the web application from being put in sleep by the cloud service's inactivity timer by sending HTTP requests to itself using curl. 
 
 * [Live Demo](http://crud_demo.deanwalls.com/) <br>
@@ -65,7 +61,13 @@
 
 * Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
 
+
 ## Education
 
 * Delaware Technical and Community College – DE | Licensed Nursing Practitioner | Diploma/License <br> *2014*
 * Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL Class A <br> *2019*
+
+
+
+
+
