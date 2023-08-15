@@ -34,10 +34,8 @@
 ## Personal Projects
 
 ### CRUD Demo
-  CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and css for the front-end, containerized using Docker, deployed to the free cloud service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the web application from being put in sleep by the cloud service's inactivity timer by sending HTTP requests to itself using curl. 
+  CRUD_demo is a web application that demonstrates comprehensive CRUD operations and it can be be [experienced live, here.](http://crud_demo.deanwalls.com) Users can read, create, update, and delete entries in an H2 database. It's developed using Java, Spring Boot, jQuery, and H2 database. The application employs the Model-View-Controller (MVC) architectural pattern, providing a clear separation between the data, user interface, and application logic, enhancing maintainability. It's containerized using Docker and deployed to the cloud. The front end is hosted for free on Github in order to make sure that a static pre-loading page can be served to the user when the backend is spun-down. [The entire repository can be found here.](https://github.com/deanOfWalls/CRUD_demo)
 
-* [Live Demo](http://crud_demo.deanwalls.com/) <br>
-* [Git Repo](https://github.com/deanOfWalls/CRUD_demo)
 
 ## Experience
 
@@ -71,9 +69,9 @@
 
 
 ## Education
-
-* Delaware Technical and Community College – DE | Licensed Nursing Practitioner | Diploma/License <br> *2014*
-* Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL Class A <br> *2019*
+ [Zip Code Wilmington - Certificate of Completion - *2023*](zipcode.pdf)<br>
+ Delaware Technical and Community College – Licensed Nursing Practitioner  Diploma - *2014*<br>
+ Delaware Technical and Community College – Commercial Transportation Studies - *2019*
 
 
 
