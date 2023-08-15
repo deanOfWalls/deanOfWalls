@@ -1,6 +1,14 @@
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
- 
- [*Click here to download this document as a .pdf*](Christopher_Dean_Walls_August2023.pdf)
+ <script>
+    function downloadAsPDF() {
+        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
+        window.location.href = 'resume.pdf';
+    }
+</script>
+
+
+<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+
 
 # Christopher Dean Walls
 
