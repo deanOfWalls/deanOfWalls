@@ -29,6 +29,8 @@
 ### CRUD Demo
   CRUD Demo is a CRUD application built on Java and Spring Boot, using ajax, html, and css for the front-end, containerized using Docker, deployed to the free cloud service, Render.com. The Dockerfile utilizes bash scripting in order to prevent the web application from being put in sleep by the cloud service's inactivity timer by sending HTTP requests to itself using curl. 
 
+\newpage
+
 
 ## Experience
 
@@ -63,8 +65,8 @@
 
 ## Education
 
-Delaware Technical and Community College – DE | Licensed Nursing Practitioner | Diploma/License <br> *2014*
-Delaware Technical and Community College – DE | Commercial Transportation Studies | CDL Class A <br> *2019*
+Delaware Technical & Community College – Licensed Nursing Practitioner.  Diploma/License - *2014*<br>
+Delaware Technical and Community College – DE Commercial Transportation Studies. CDL Class A - *2019*
 
 
 
