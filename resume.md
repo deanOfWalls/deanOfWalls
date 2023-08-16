@@ -37,7 +37,7 @@
 ### CRUD Demo
   CRUD_demo is a web application that demonstrates comprehensive CRUD operations and it can be be [experienced live, here.](http://crud_demo.deanwalls.com) Users can read, create, update, and delete entries in an H2 database. It's developed using Java, Spring Boot, jQuery, and H2 database. The application employs the Model-View-Controller (MVC) architectural pattern, providing a clear separation between the data, user interface, and application logic, enhancing maintainability. It's containerized using Docker and deployed to the cloud. The front end is hosted for free on Github in order to make sure that a static pre-loading page can be served to the user when the backend is spun-down. [The entire repository can be found here.](https://github.com/deanOfWalls/CRUD_demo)
 
-<div class="pagebreak"> </div>
+<div style="page-break-before: always;"></div>
 
 ## Experience
 

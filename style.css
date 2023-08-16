@@ -1,8 +1,8 @@
-/* page-break-before wasn't working. testing this */
-.pagebreak { page-break-before: always; } 
-
-
-header a, header ul, footer p:nth-child(2){
-    display:none
+@media print {
+    .pagebreak {
+        display: block;
+        page-break-before: always;
+        page-break-after: always; /* Sometimes adding both before and after can ensure the break */
+    }
 }
 
