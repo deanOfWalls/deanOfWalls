@@ -1,3 +1,8 @@
+header h1 {
+    display: none;
+}
+
+
 /* Print-specific styles */
 @media print {
     .pagebreak {
