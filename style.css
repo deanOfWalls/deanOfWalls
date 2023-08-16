@@ -1,9 +1,19 @@
+/* Print-specific styles */
 @media print {
     .pagebreak {
         display: block;
         page-break-before: always;
         page-break-after: always; /* Sometimes adding both before and after can ensure the break */
     }
+
+    .print-only {
+        display: block;
+    }
 }
 
-
+/* Screen-specific styles */
+@media screen {
+    .print-only {
+        display: none;
+    }
+}
