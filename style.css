@@ -1,7 +1,7 @@
 header {
     font-size: 0;
     color: transparent;
-    /* display: none; */
+    display: none;
 }
 
 ::before {
@@ -12,7 +12,7 @@ header {
 header h1 {
     font-size: 0;
     color: transparent;
-    display: none;
+    /* display: none; */
 }
 footer {
     display:none;
