@@ -2,7 +2,7 @@
     background-color: black;
     height: 50px;  /* Adjust this value for your desired thickness of the bar */
     border-radius: 10px 10px 0 0; /* Rounded corners at the top */
-    width: 100%;  /* Makes sure the bar stretches the full width of the container */
+    width: 50%;  /* Makes sure the bar stretches the full width of the container */
     position: fixed; /* This will position the bar relative to the browser window */
     top: 0; /* This ensures it's at the very top */
     left: 0; /* This ensures it starts from the leftmost part of the window */
@@ -10,9 +10,9 @@
 }
 
 
-body {
+/* body {
     padding-top: 60px; /* This is slightly more than the height of the header bar to ensure there's space between the bar and your content */
-}
+} */
 
 
 
