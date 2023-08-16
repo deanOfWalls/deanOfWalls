@@ -1,8 +1,8 @@
-header a, header ul, footer p:nth-child(2){
-    display:none
-}
-
 .page-break {
     display: block;
     page-break-before: always;
 }
+header a, header ul, footer p:nth-child(2){
+    display:none
+}
+
