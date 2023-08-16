@@ -1,3 +1,11 @@
+.header-bar {
+    background-color: black;
+    height: 50px;  /* Adjust this value for your desired thickness of the bar */
+    border-radius: 10px 10px 0 0; /* Rounded corners at the top */
+    margin-bottom: 20px; /* Spacing between the header bar and the content below it */
+}
+
+
 header {
     font-size: 0;
     color: transparent;
