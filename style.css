@@ -67,3 +67,9 @@ footer {
         display: none;
     }
 }
+
+
+.content-wrapper {
+    background-color: #f2f2f2; /* Or your desired background color */
+    padding: 20px; /* Optional: to give some spacing between text and the edge of the background color */
+}
