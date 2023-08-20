@@ -7,9 +7,15 @@ body {
 
 
 
-.container .wrapper, .container .wrapper section {
+.wrapper {
     background-color: white !important;
 }
+
+.wrapper section {
+    background-color: white !important;
+}
+
+
 
 
 
