@@ -5,13 +5,17 @@
 @media screen {
     body {
         transform: scale(1.5); /* Adjust the scale factor as needed */
-        transform-origin: top left; /* Ensures that the scaling begins from the top left corner of the page */
+        transform-origin: top center; /* Ensures that the scaling begins from the top center of the page */
+        width: calc(100% / 1.5); /* Adjusts the width according to the scale */
+        margin: 0 auto; /* Centers the content */
+        overflow-x: hidden; /* Prevents horizontal scrolling */
     }
 
     .print-only {
         display: none;
     }
 }
+
 
 
 body {
