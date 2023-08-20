@@ -13,8 +13,6 @@
 
 <button onclick="downloadAsPDF()">Download Resume As PDF</button>
 
-<div class="content-wrapper">
-
 # Christopher Dean Walls
 
 ## Full-Stack Java Developer
@@ -79,4 +77,3 @@
  Delaware Technical and Community College – Licensed Nursing Practitioner  Diploma - *2014*<br>
  Delaware Technical and Community College – Commercial Transportation Studies - *2019*
 
-</div>
