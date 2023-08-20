@@ -22,6 +22,9 @@ body {
 
 
 
+body a {
+    color: #2f68e1 !important;
+}
 
 a {
     color: #2f68e1;
