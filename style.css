@@ -1,25 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); /* Importing the Sora font from Google Fonts */
+
+body {
+    font-family: 'Sora', sans-serif; /* Setting the font to Sora */
+    background-color: white; /* Setting the background color to white */
+}
+
+header, ::before, header h1, footer {
+    font-family: 'Sora', sans-serif; /* Setting the font to Sora for specified elements */
+}
 
 header {
     font-size: 0;
     color: transparent;
     display: none;
-    content:none;
+    content: none;
 }
 
 ::before {
     content: none;
 }
 
-
 header h1 {
     font-size: 0;
     color: transparent;
     display: none;
 }
-footer {
-    display:none;
-}
 
+footer {
+    display: none;
+}
 
 /* Print-specific styles */
 @media print {
