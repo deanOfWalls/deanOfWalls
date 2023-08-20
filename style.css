@@ -1,30 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); /* Importing the Sora font from Google Fonts */
-
-
-/* Screen-specific styles */
-@media screen {
-    body {
-        transform: scale(1.5); /* Adjust the scale factor as needed */
-        transform-origin: top center; /* Ensures that the scaling begins from the top center of the page */
-        width: calc(100% / 1.5); /* Adjusts the width according to the scale */
-        margin: 0 auto; /* Centers the content */
-        overflow-x: hidden; /* Prevents horizontal scrolling */
-    }
-
-    .print-only {
-        display: none;
-    }
-}
-
-
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
 
 body {
-    font-family: 'Sora', sans-serif; /* Setting the font to Sora */
-    background-color: white; /* Setting the background color to white */
+    font-family: 'Sora', sans-serif;
+    background-color: white;
 }
 
-header, ::before, header h1, footer {
-    font-family: 'Sora', sans-serif; /* Setting the font to Sora for specified elements */
+.header, ::before, header h1, footer {
+    font-family: 'Sora', sans-serif;
 }
 
 header {
@@ -48,12 +30,17 @@ footer {
     display: none;
 }
 
+.content-wrapper {
+    background-color: white;
+    padding: 20px;
+}
+
 /* Print-specific styles */
 @media print {
     .pagebreak {
         display: block;
         page-break-before: always;
-        page-break-after: always; /* Sometimes adding both before and after can ensure the break */
+        page-break-after: always; 
     }
 
     .print-only {
@@ -63,9 +50,15 @@ footer {
 
 /* Screen-specific styles */
 @media screen {
+    body {
+        transform: scale(1.5);
+        transform-origin: top center;
+        width: calc(100% / 1.5);
+        margin: 0 auto;
+        overflow-x: hidden;
+    }
+
     .print-only {
         display: none;
     }
 }
-
-

@@ -1,8 +1,11 @@
 <!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
 
 
-<div class="header-bar"></div>
+<div class="content-wrapper">
 
+<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
+
+<div class="header-bar"></div>
 
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
  <script>
@@ -13,9 +16,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-
 <button onclick="downloadAsPDF()">Download Resume As PDF</button>
-
 
 # Christopher Dean Walls
 
@@ -76,8 +77,9 @@
 
 * Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
 
-
 ## Education
  [Zip Code Wilmington - Certificate of Completion - *2023*](zipcode.pdf)<br>
  Delaware Technical and Community College – Licensed Nursing Practitioner  Diploma - *2014*<br>
  Delaware Technical and Community College – Commercial Transportation Studies - *2019*
+
+</div>
