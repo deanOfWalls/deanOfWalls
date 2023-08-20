@@ -16,8 +16,9 @@ body {
 }
 
 .wrapper section {
-    background-color: white !important;
+    background: transparent !important;
 }
+
 
 
 
