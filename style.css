@@ -5,9 +5,12 @@ body {
     background-color: white;
 }
 
-body .wrapper, body .wrapper section {
+
+
+.container .wrapper, .container .wrapper section {
     background-color: white !important;
 }
+
 
 
 main, .main, .content, .post-content {
