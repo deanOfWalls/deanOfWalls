@@ -1,7 +1,5 @@
 <!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
 
-<div class="content-wrapper">
-
 
 <div class="header-bar"></div>
 
@@ -83,7 +81,3 @@
  [Zip Code Wilmington - Certificate of Completion - *2023*](zipcode.pdf)<br>
  Delaware Technical and Community College – Licensed Nursing Practitioner  Diploma - *2014*<br>
  Delaware Technical and Community College – Commercial Transportation Studies - *2019*
-
-
-
-</div>
