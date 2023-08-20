@@ -9,8 +9,6 @@ body {
     background-color: white;
 }
 
-
-
 .wrapper {
     background-color: white !important;
     padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
@@ -19,33 +17,6 @@ body {
 .wrapper section {
     background: transparent !important;
 }
-
-
-
-body a {
-    color: #2f68e1 !important;
-}
-
-a {
-    color: #2f68e1;
-}
-
-a:hover {
-    color: darkblue; /* You can change this to a different color if you want a hover effect */
-}
-
-a:visited {
-    color: midnightblue; /* Optional: Change the color for links that have been visited */
-}
-
-a:active {
-    color: navy; /* Optional: Change the color for active links (when they are clicked) */
-}
-
-
-
-
-
 
 main, .main, .content, .post-content {
     background-color: white;
@@ -79,6 +50,26 @@ footer {
 .content-wrapper {
     background-color: white;
     padding: 20px;
+}
+
+a {
+    color: #2f68e1;
+}
+
+body a {
+    color: #2f68e1 !important;
+}
+
+a:hover {
+    color: darkblue; /* You can change this to a different color if you want a hover effect */
+}
+
+a:visited {
+    color: midnightblue; /* Optional: Change the color for links that have been visited */
+}
+
+a:active {
+    color: navy; /* Optional: Change the color for active links (when they are clicked) */
 }
 
 /* Print-specific styles */
