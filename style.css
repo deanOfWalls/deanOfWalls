@@ -23,6 +23,25 @@ body {
 
 
 
+a {
+    color: #2f68e1;
+}
+
+a:hover {
+    color: darkblue; /* You can change this to a different color if you want a hover effect */
+}
+
+a:visited {
+    color: midnightblue; /* Optional: Change the color for links that have been visited */
+}
+
+a:active {
+    color: navy; /* Optional: Change the color for active links (when they are clicked) */
+}
+
+
+
+
 
 
 main, .main, .content, .post-content {
