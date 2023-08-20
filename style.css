@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); /* Importing the Sora font from Google Fonts */
 
+
+/* Screen-specific styles */
+@media screen {
+    body {
+        transform: scale(1.5); /* Adjust the scale factor as needed */
+        transform-origin: top left; /* Ensures that the scaling begins from the top left corner of the page */
+    }
+
+    .print-only {
+        display: none;
+    }
+}
+
+
 body {
     font-family: 'Sora', sans-serif; /* Setting the font to Sora */
     background-color: white; /* Setting the background color to white */
