@@ -81,7 +81,7 @@
 
 ## Education
 
-| 2023 | Zip Code Wilmington                     | [Certificate of Completion - *2023*](zipcode.pdf)                  |
+| 2023 | Zip Code Wilmington                     | [Certificate of Completion - 2023](zipcode.pdf)                  |
 |------|-----------------------------------------|--------------------------------------------------------------------|
 | 2019 | Delaware Technical and Community College| Commercial Transportation Studies                                  |
 | 2014 | Delaware Technical and Community College| Licensed Nursing Practitioner Diploma                              |
