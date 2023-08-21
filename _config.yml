@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
 name: Dean Walls
 title: null
-stylesheets:
-  - /style.css
+# stylesheets:
+#   - /style.css
