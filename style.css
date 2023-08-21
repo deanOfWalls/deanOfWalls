@@ -9,6 +9,10 @@ body {
     background-color: white;
 }
 
+.markdown-body div.post-content a {
+    color: blue !important;
+  }
+
 .wrapper {
     background-color: white !important;
     padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
