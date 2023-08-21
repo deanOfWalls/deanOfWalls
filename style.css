@@ -4,6 +4,11 @@
     border: 3px solid red !important;
 } */
 
+table tr:first-child td {
+    font-weight: normal;
+    text-align: left;  /* Optional: if you want to align the text to the left instead of center */
+}
+
 
 code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; overflow-x: auto; }
 
