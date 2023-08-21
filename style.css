@@ -5,9 +5,10 @@
 } */
 
 
-h1:nth-child(1){
+/* header a, header ul,p:nth-child(2),h1:nth-child(1){
     display:none;
-}
+
+} */
 
 
 code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; overflow-x: auto; }
@@ -60,15 +61,6 @@ header {
     content: none;
 }
 
-/* ::before {
-    content: none;
-} */
-
-header h1 {
-    font-size: 0;
-    color: transparent;
-    display: none;
-}
 
 footer {
     display: none;
