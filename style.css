@@ -9,7 +9,15 @@ body {
     background-color: white;
 }
 
-.markdown-body div.post-content a {
+a {
+    color: blue !important;
+  }
+  
+  .markdown-body a {
+    color: blue !important; 
+  }
+  
+  .markdown-body p a {
     color: blue !important;
   }
 
