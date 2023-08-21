@@ -55,7 +55,10 @@ footer {
 .markdown-body a {
     color: blue !important;
   }
-  
+  .markdown-body .page-content a {
+    color: blue !important; 
+  }
+
 
 /* Print-specific styles */
 @media print {
