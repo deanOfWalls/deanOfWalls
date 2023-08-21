@@ -52,14 +52,13 @@ footer {
     padding: 20px;
 }
 
-a {
-    color: #2f68e1 !important;
-}
-
-
-body div a, body div a:link {
-    color: #2f68e1 !important;
-}
+a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: purple;
+  }
 
 
 
