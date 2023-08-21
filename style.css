@@ -9,17 +9,22 @@ body {
     background-color: white;
 }
 
-a {
-    color: blue !important;
-  }
-  
-  .markdown-body a {
-    color: blue !important; 
-  }
-  
-  .markdown-body p a {
-    color: blue !important;
-  }
+ul li a {
+    color: #2f68e1 !important;
+}
+
+ul li a:hover {
+    color: darkblue;
+}
+
+ul li a:visited {
+    color: midnightblue;
+}
+
+ul li a:active {
+    color: navy;
+}
+
 
 .wrapper {
     background-color: white !important;
