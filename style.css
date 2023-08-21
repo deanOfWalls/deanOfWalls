@@ -52,27 +52,10 @@ footer {
     padding: 20px;
 }
 
-a:link {
-    color: blue;
+.markdown-body a {
+    color: blue !important;
   }
   
-  a:visited {
-    color: purple;
-  }
-
-
-
-a:hover {
-    color: darkblue; /* You can change this to a different color if you want a hover effect */
-}
-
-a:visited {
-    color: midnightblue; /* Optional: Change the color for links that have been visited */
-}
-
-a:active {
-    color: navy; /* Optional: Change the color for active links (when they are clicked) */
-}
 
 /* Print-specific styles */
 @media print {
