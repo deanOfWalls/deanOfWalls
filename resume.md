@@ -80,6 +80,14 @@
 * Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
 
 ## Education
+|      |                                          |                                       |
+| ---- | ---------------------------------------- | ------------------------------------- |
+| 2023 | Zip Code Wilmington                      | [Certificate of Completion - *2023*](zipcode.pdf)             |
+| 2019 | Delaware Technical and Community College | Commercial Transportation Studies     |
+| 2014 | Delaware Technical and Community College | Licensed Nursing Practitioner Diploma |
+
+
+
  [Zip Code Wilmington - Certificate of Completion - *2023*](zipcode.pdf)<br>
  Delaware Technical and Community College – Licensed Nursing Practitioner  Diploma - *2014*<br>
  Delaware Technical and Community College – Commercial Transportation Studies - *2019*
