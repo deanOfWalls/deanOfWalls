@@ -57,9 +57,10 @@ a {
 }
 
 
-body a, body a:link {
+body div a, body div a:link {
     color: #2f68e1 !important;
 }
+
 
 
 a:hover {
