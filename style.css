@@ -14,15 +14,15 @@ ul li a {
 }
 
 ul li a:hover {
-    color: darkblue;
+    color: darkblue !important;
 }
 
 ul li a:visited {
-    color: midnightblue;
+    color: midnightblue !important;
 }
 
 ul li a:active {
-    color: navy;
+    color: navy !important;
 }
 
 
