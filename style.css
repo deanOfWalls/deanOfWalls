@@ -56,9 +56,11 @@ a {
     color: #2f68e1;
 }
 
-body a {
+
+body a, body a:link {
     color: #2f68e1 !important;
 }
+
 
 a:hover {
     color: darkblue; /* You can change this to a different color if you want a hover effect */
