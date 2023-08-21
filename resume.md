@@ -39,7 +39,7 @@
 
 ### Back-End
   * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
-  * Crafted RESTful APIs for data management, integrated services using @Autowired, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
+  * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
 
 
 ### Front-End
