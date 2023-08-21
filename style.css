@@ -4,6 +4,10 @@
     border: 3px solid red !important;
 } */
 
+
+code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; overflow-x: auto; }
+
+
 body {
     font-family: 'Sora', sans-serif;
     background-color: white;
@@ -14,16 +18,17 @@ ul li a {
 }
 
 ul li a:hover {
-    color: darkblue !important;
+    color: #2f68e1 !important;
 }
 
 ul li a:visited {
-    color: midnightblue !important;
+    color: #2f68e1 !important;
 }
 
 ul li a:active {
-    color: navy !important;
+    color: #2f68e1 !important;
 }
+
 
 
 .wrapper {

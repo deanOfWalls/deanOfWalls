@@ -34,7 +34,17 @@
 ## Personal Projects
 
 ### CRUD Demo
-  CRUD_demo is a web application that demonstrates comprehensive CRUD operations and it can be be [experienced live, here.](http://crud_demo.deanwalls.com) Users can read, create, update, and delete entries in an H2 database. It's developed using Java, Spring Boot, jQuery, and H2 database. The application employs the Model-View-Controller (MVC) architectural pattern, providing a clear separation between the data, user interface, and application logic, enhancing maintainability. It's containerized using Docker and deployed to the cloud. The front end is hosted for free on Github in order to ensure that a static pre-loading page can be served to the user when the backend is spun-down. [The entire repository can be found here.](https://github.com/deanOfWalls/CRUD_demo)
+  * A [live demo can be viewed here.](http://crud_demo.deanwalls.com) allowing users to manage entries in an H2 database. 
+  * Developed with Java, Spring Boot, jQuery, and H2; adopting the MVC architectural pattern for enhanced maintainability. 
+
+### Back-End
+  * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
+  * Crafted RESTful APIs for data management, integrated services using @Autowired, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
+
+
+### Front-End
+  * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
+  * Incorporated CORS for secure front-to-back-end communication.
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">
