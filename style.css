@@ -59,6 +59,10 @@ footer {
     color: blue !important; 
   }
 
+  .blue-link {
+    color: blue;
+  }
+
 
 /* Print-specific styles */
 @media print {
