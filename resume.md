@@ -19,7 +19,7 @@
 ### Contact Information
 
 * Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
-* Phone: [`302-314-3764`](tel:+1-302-241-3736)
+* Phone: [`302-243-3736`](tel:+1-302-241-3736)
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
