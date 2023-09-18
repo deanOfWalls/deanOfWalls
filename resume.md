@@ -83,6 +83,6 @@
 
 | 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Certificate of Completion - 2023</a>                  |
 |------|-----------------------------------------|--------------------------------------------------------------------|
-| 2019 | Delaware Technical and Community College| Commercial Transportation Studies                                  |
+| 2019 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
 | 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Licensed Nursing Practitioner Diploma</a>                              |
 
