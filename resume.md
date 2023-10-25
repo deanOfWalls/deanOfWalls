@@ -23,6 +23,9 @@
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
+### Tech Stack
+* Java * Spring Boot * JavaScript * HTML * CSS * Docker * SQL * C# * .NET * ASP.NET Core * Selenium * Jira
+
 ### Summary
 
 * Reliable and detail-oriented Java software Developer with a LPN (Licensed Practical Nursing) Diploma who previously held an LPN License for the State of Delaware. 
@@ -81,8 +84,8 @@
 
 ## Education
 
-| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Certificate of Completion - 2023</a>                  |
+| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development - 2023</a>                  |
 |------|-----------------------------------------|--------------------------------------------------------------------|
 | 2019 | Delaware Technical and Community College| <a href="driverCert.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
-| 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Licensed Nursing Practitioner Diploma</a>                              |
+| 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Nursing</a>                              |
 
