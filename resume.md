@@ -84,7 +84,7 @@
 
 ## Education
 
-| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development - 2023</a>                  |
+| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development</a>                  |
 |------|-----------------------------------------|--------------------------------------------------------------------|
 | 2019 | Delaware Technical and Community College| <a href="driverCert.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
 | 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Nursing</a>                              |
