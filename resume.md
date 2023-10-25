@@ -24,7 +24,7 @@
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
 ### Tech Stack
-* Java * Spring Boot * JavaScript * HTML * CSS * Docker * SQL * C# * .NET * ASP.NET Core * Selenium * Jira
+&bull; Java &bull; Spring Boot &bull; JavaScript &bull; HTML &bull; CSS &bull; Docker &bull; SQL &bull; C# &bull; .NET &bull; ASP.NET Core &bull; Selenium &bull; Jira
 
 ### Summary
 
