@@ -15,6 +15,7 @@
 # Christopher Dean Walls
 
 ## Full-Stack Java Developer
+&bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Bash Scripting &bull; Docker &bull; Git &bull; Postman &bull; Jira
 
 ### Contact Information
 
@@ -22,9 +23,6 @@
 * Phone: [`302-241-3736`](tel:+1-302-241-3736)
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
-
-### Tech Stack
-&bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Bash Scripting &bull; Docker &bull; Git &bull; Postman &bull; Jira
 
 ### Summary
 
