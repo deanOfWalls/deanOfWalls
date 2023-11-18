@@ -4,3 +4,4 @@ Clarify experience section.
 
 Research how to optimize formatting so that when submitting resume to job sites it autofills more efficienctly.
 
+Revisit noBS Tl;dr
