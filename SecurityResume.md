@@ -6,7 +6,7 @@
 - **LinkedIn:** [linkedin.com/in/deanofwalls](https://www.linkedin.com/in/deanofwalls/)
 
 ## Objective
-Aspiring to utilize my diverse experience in nursing, IT, and trucking in the role of Security Officer at Allied Universal. Focused on maintaining safety and security with my strong problem-solving, communication, and crisis management skills.
+Aspiring to utilize my diverse experience in nursing, IT, and trucking in the role of Security Officer. Focused on maintaining safety and security with my strong problem-solving, communication, and crisis management skills.
 
 ## Professional Experience
 
