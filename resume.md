@@ -60,7 +60,7 @@
 
 ### Help Desk Support Technician
 
-#### CBIZ; [Location]
+#### CBIZ; Remote
 
 ##### November 2023 - Present
 
@@ -78,7 +78,7 @@
 
 ### Technical Support Advisor
 
-#### Kelly Connect; USA.
+#### Kelly Connect; Remote
 
 ##### 2018 - 2019
 
@@ -87,7 +87,7 @@
 
 ## Education
 
-| 2023 | Curriculeon Software Development | Software Development |
+| 2023 | Curriculeon   | Software Development Mentorship |
 |------|---------------------------------|-----------------------|
 | 2023 | Zip Code Wilmington (Coding Boot Camp) | Software Development |
 | 2019 | Delaware Technical and Community College | Commercial Transportation Studies |
