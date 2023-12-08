@@ -46,9 +46,6 @@
   * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
   * Incorporated CORS for secure front-to-back-end communication.
 
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
 ## Experience
 
 ### Software Developer
@@ -68,7 +65,6 @@
 ##### November 2023 - Present
 
 * Provide help desk support for colleagues under Edward Jones.
-* [Add any specific responsibilities or achievements here.]
 
 ### Commercial Tractor Trailer Driver
 
