@@ -14,8 +14,8 @@
 
 # Christopher Dean Walls
 
-## Full-Stack Java Developer
-&bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Bash Scripting &bull; Docker &bull; Git &bull; Postman &bull; Jira
+## Full-Stack Developer
+&bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira
 
 ### Contact Information
 
@@ -26,10 +26,9 @@
 
 ### Summary
 
-* Reliable Java software Developer with LPN (Licensed Practical Nursing) Diploma.
-* Diverse experience includes co-designing a Battle Royale-style web game and working as a commercial driver and technical support advisor.
+* Reliable Java Developer with diverse experience in web game design, commercial driving, and technical support.
 * Strong organizational skills and problem-solving ability.
-* Eager to apply skills in software development.
+* Eager to contribute to software development projects.
 
 ## Personal Projects
 
@@ -88,8 +87,8 @@
 
 ## Education
 
-| 2023 | Curriculeon Software Development Mentoring Program | Software Development |
-|------|----------------------------------------------------|-----------------------|
-| 2023 | Zip Code Wilmington (Coding Boot Camp)            | Software Development |
-| 2019 | Delaware Technical and Community College          | Commercial Transportation Studies |
-| 2014 | Delaware Technical and Community College          | Nursing |
+| 2023 | Curriculeon Software Development | Software Development |
+|------|---------------------------------|-----------------------|
+| 2023 | Zip Code Wilmington (Coding Boot Camp) | Software Development |
+| 2019 | Delaware Technical and Community College | Commercial Transportation Studies |
+| 2014 | Delaware Technical and Community College | Nursing |
