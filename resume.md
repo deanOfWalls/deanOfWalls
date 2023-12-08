@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
 
@@ -26,9 +26,10 @@
 
 ### Summary
 
-* Reliable Java Developer with diverse experience in web game design, commercial driving, technical support, and nursing.
-* Strong organizational skills and problem-solving ability.
-* Eager to contribute to software development projects.
+* Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design.
+* Proficient in Java, Spring Boot, and web technologies.
+* Detail-oriented and adept at tackling complex challenges.
+* Eager to kick-start my career in software development and contribute effectively to development projects.
 
 ## Personal Projects
 
