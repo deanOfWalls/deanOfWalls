@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
 
@@ -52,7 +52,7 @@
 
 ## Experience
 
-### Software Developer
+### Software Developer (Coding Bootcamp)
 
 #### Zip Code Wilmington; Wilmington, DE.
 
@@ -61,6 +61,15 @@
 * Admitted into Zip Code Wilmington’s highly competitive software development program which accepts less than 12% of applicants.
 * Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
 * Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
+
+### Help Desk Support Technician
+
+#### CBIZ
+
+##### November 2023 - Present
+
+* Provided help desk technical support to colleagues working under Edward Jones.
+
 
 ### Commercial Tractor Trailer Driver
 
@@ -82,8 +91,10 @@
 
 ## Education
 
-| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development</a>                  |
+
+| 2023 | Curriculeon                     | Software Development Mentorship Program                  |
 |------|-----------------------------------------|--------------------------------------------------------------------|
+| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development</a>                  |
 | 2019 | Delaware Technical and Community College| <a href="driverCert.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
 | 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Nursing</a>                              |
 
