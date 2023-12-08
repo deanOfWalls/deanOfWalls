@@ -1,8 +1,8 @@
 <!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
 
 <div class="header-bar"></div>
- <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
- <script>
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<script>
     function downloadAsPDF() {
         // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
         window.location.href = 'resume.pdf';
@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
+<button onclick="downloadAsPDF()">Download Resume As PDF</button>
 
 # Christopher Dean Walls
 
@@ -42,18 +42,18 @@
   * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
   * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
 
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
 ### Front-End
   * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
   * Incorporated CORS for secure front-to-back-end communication.
 
+<div style="page-break-before: always;"></div>
+<br class="print-only">
+
 ## Experience
 
-### Software Developer (Coding Bootcamp)
+### Software Developer
 
-#### Zip Code Wilmington; Wilmington, DE.
+#### Zip Code Wilmington (Coding Boot Camp); Wilmington, DE.
 
 ##### February 2023 - May 2023
 
@@ -63,29 +63,35 @@
 
 ### Help Desk Support Technician
 
-#### CBIZ
+#### CBIZ; Remote
 
 ##### November 2023 - Present
 
-* Provided help desk technical support to colleagues working under Edward Jones.
-* Utilized ServiceNow ticketing system as well as various proprietary CBIZ tools.
-* Provided support for a multitude hardware, network, and software issues.
+* Provide help desk support for colleagues under Edward Jones.
+* [Add any specific responsibilities or achievements here.]
 
 ### Commercial Tractor Trailer Driver
 
-#### DOT Foods; Bear, DE. - February 2020 - August 2022
+#### DOT Foods; Bear, DE.
+
+##### February 2020 - August 2022
+
+* Performed pre-trip and post-trip inspections on all equipment and performed general maintenance on tractors.
+* Monitored and maintained reefer units to maintain temperature integrity of products, maintained fuel and Diesel Exhaust Fluid levels of tractors and reefers.
+* Used electronic logging devices to log hours of service, load information and plan trip routes and times.
 
 ### Technical Support Advisor
 
-#### Kelly Connect; USA. - 2018 - 2019
+#### Kelly Connect; Remote
 
+##### 2018 - 2019
+
+* Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
 
 ## Education
 
-
-| 2023 | Curriculeon                     | Software Development Mentorship Program                  |
-|------|-----------------------------------------|--------------------------------------------------------------------|
-| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Software Development</a>                  |
-| 2019 | Delaware Technical and Community College| <a href="driverCert.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
-| 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Nursing</a>                             
-
+| 2023 | Curriculeon Software Development Mentoring Program | Software Development |
+|------|----------------------------------------------------|-----------------------|
+| 2023 | Zip Code Wilmington (Coding Boot Camp)            | Software Development |
+| 2019 | Delaware Technical and Community College          | Commercial Transportation Studies |
+| 2014 | Delaware Technical and Community College          | Nursing |
