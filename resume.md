@@ -42,13 +42,12 @@
   * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
   * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
 
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 
 ### Front-End
   * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
   * Incorporated CORS for secure front-to-back-end communication.
-
-<div style="page-break-before: always;"></div>
-<br class="print-only">
 
 ## Experience
 
