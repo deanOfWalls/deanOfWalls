@@ -26,25 +26,27 @@
 
 ### Summary
 
-* Reliable and detail-oriented Java software Developer with a LPN (Licensed Practical Nursing) Diploma who previously held an LPN License for the State of Delaware. 
-* Diverse set of previous work experiences as a developer and co-designer for Thelast.io, a Battle Royale-style multi-player web game, with responsibilities for managing finances, public relations, and advertising as well as asset production. 
-* Other prior work experience as a commercial tractor-trailer driver at Dot Foods and as a technical support advisor for Apple. 
-* Strong organizational skills and the ability to troubleshoot technical issues. 
-* Eager to apply skillset to a new career in software development collaborating with others to build efficient and useful solutions.
+* Reliable Java software Developer with LPN (Licensed Practical Nursing) Diploma.
+* Diverse experience includes co-designing a Battle Royale-style web game and working as a commercial driver and technical support advisor.
+* Strong organizational skills and problem-solving ability.
+* Eager to apply skills in software development.
 
 ## Personal Projects
 
 ### CRUD Demo
-  * A [live demo can be viewed here.](http://crud_demo.deanwalls.com) allowing users to manage entries in an H2 database. 
-  * Developed with Java, Spring Boot, jQuery, and H2; adopting the MVC architectural pattern for enhanced maintainability. 
+  * [Live demo](http://crud_demo.deanwalls.com) for managing entries in an H2 database.
+  * Developed with Java, Spring Boot, jQuery, and H2 using MVC pattern.
 
-### Back-End
-  * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
-  * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
+### Back-End Development
+  * Spring Boot backend for CRUD operations and server stats retrieval.
+  * Crafted RESTful APIs, integrated services with Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
 
-### Front-End
-  * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
+### Front-End Development
+  * Hosted on Github Pages with HTML, CSS, and AJAX for dynamic data operations.
   * Incorporated CORS for secure front-to-back-end communication.
+
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 
 ## Experience
 
@@ -54,35 +56,35 @@
 
 ##### February 2023 - May 2023
 
-* Admitted into Zip Code Wilmington’s highly competitive software development program which accepts less than 12% of applicants.
-* Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
-* Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
+* Admitted into Zip Code Wilmington’s software development program.
+* Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
 
 ### Help Desk Support Technician
 
-#### CBIZ; Remote
+#### CBIZ; [Location]
 
 ##### November 2023 - Present
 
-* Provide help desk support for colleagues under Edward Jones.
+* Provide help desk support for colleagues at Edward Jones.
+* [Add any specific responsibilities or achievements here.]
 
-### Commercial Tractor Trailer Driver
+### Commercial Driver
 
 #### DOT Foods; Bear, DE.
 
 ##### February 2020 - August 2022
 
-* Performed pre-trip and post-trip inspections on all equipment and performed general maintenance on tractors.
-* Monitored and maintained reefer units to maintain temperature integrity of products, maintained fuel and Diesel Exhaust Fluid levels of tractors and reefers.
-* Used electronic logging devices to log hours of service, load information and plan trip routes and times.
+* Conducted pre-trip and post-trip inspections, performed maintenance.
+* Managed reefer units, fuel, and electronic logs for trip planning.
 
 ### Technical Support Advisor
 
-#### Kelly Connect; Remote
+#### Kelly Connect; USA.
 
 ##### 2018 - 2019
 
-* Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
+* Offered Technical Support for iOS, macOS, and watchOS.
+* Resolved issues related to Apple ID, iCloud, and Beats products.
 
 ## Education
 
