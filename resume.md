@@ -26,7 +26,7 @@
 
 ### Summary
 
-* Reliable Java Developer with diverse experience in web game design, commercial driving, and technical support.
+* Reliable Java Developer with diverse experience in web game design, commercial driving, technical support, and nursing.
 * Strong organizational skills and problem-solving ability.
 * Eager to contribute to software development projects.
 
@@ -65,7 +65,6 @@
 ##### November 2023 - Present
 
 * Provide help desk support for colleagues at Edward Jones.
-* [Add any specific responsibilities or achievements here.]
 
 ### Commercial Driver
 
@@ -82,8 +81,7 @@
 
 ##### 2018 - 2019
 
-* Offered Technical Support for iOS, macOS, and watchOS.
-* Resolved issues related to Apple ID, iCloud, and Beats products.
+* Resolved issues for iOS, macOS, and other products/services.
 
 ## Education
 
