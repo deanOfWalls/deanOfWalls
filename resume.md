@@ -68,6 +68,8 @@
 ##### November 2023 - Present
 
 * Provided help desk technical support to colleagues working under Edward Jones.
+* Utilized ServiceNow ticketing system as well as various proprietary CBIZ tools.
+* Provided support for a multitude hardware, network, and software issues.
 
 
 ### Commercial Tractor Trailer Driver
