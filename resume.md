@@ -71,24 +71,14 @@
 * Utilized ServiceNow ticketing system as well as various proprietary CBIZ tools.
 * Provided support for a multitude hardware, network, and software issues.
 
-
 ### Commercial Tractor Trailer Driver
 
-#### DOT Foods; Bear, DE.
-
-##### February 2020 - August 2022
-
-* Performed pre-trip and post-trip inspections on all equipment and performed general maintenance on tractors.
-* Monitored and maintained reefer units to maintain temperature integrity of products, maintained fuel and Diesel Exhaust Fluid levels of tractors and reefers.
-* Used electronic logging devices to log hours of service, load information and plan trip routes and times.
+#### DOT Foods; Bear, DE. - February 2020 - August 2022
 
 ### Technical Support Advisor
 
-#### Kelly Connect; USA.
+#### Kelly Connect; USA. - 2018 - 2019
 
-##### 2018 - 2019
-
-* Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
 
 ## Education
 
