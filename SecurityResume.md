@@ -35,6 +35,9 @@ Aspiring Security Officer with a versatile background in IT support, truck drivi
 ### Java Development - Coding Boot Camp
 - Acquired foundational knowledge in Java development, demonstrating technical proficiency and a quick learning ability.
 
+<div style="page-break-before: always;"></div>
+<br class="print-only">
+
 ## Education and Certifications
 - Yellow Card Security Guard Certification
 - Commercial Transportation Studies
