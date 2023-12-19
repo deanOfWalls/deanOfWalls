@@ -45,6 +45,3 @@ Aspiring Security Officer with a versatile background in IT support, truck drivi
 - Licensed Practical Nursing Diploma
 - High School Diploma
 
-## Additional Information
-- Valid driver's license with a clean driving record.
-- Prepared for background investigation and drug screening.
