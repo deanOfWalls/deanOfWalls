@@ -1,7 +1,4 @@
-<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
-
-<div class="header-bar"></div>
- <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
 # Christopher Dean Walls
@@ -11,39 +8,40 @@
 - **Phone:** 302-241-3736
 - **LinkedIn:** [linkedin.com/in/deanofwalls](https://www.linkedin.com/in/deanofwalls/)
 
-## Objective
-Aspiring to utilize my diverse experience in nursing, IT, and trucking in the role of Security Officer. Focused on maintaining safety and security with my strong problem-solving, communication, and crisis management skills.
+## Summary/Objective
+Aspiring Security Officer with a versatile background in IT support, truck driving, and nursing, recently certified with a Yellow Card. Eager to apply strong problem-solving, communication, and crisis management skills in a security role, aiming to ensure safety and security in challenging environments.
+
+## Key Skills
+- Basic Knowledge of Safety and Security (from Yellow Card certification)
+- Emergency Response and Patient Care
+- Strong Problem-Solving and Analytical Thinking
+- Dependable and Punctual
+- Effective Communication and Interpersonal Skills
+- Teamwork and Cooperation
 
 ## Professional Experience
 
+### Help Desk Technician, CBIZ
+- Provide technical support to colleagues at Edward Jones, demonstrating problem-solving and communication skills.
+
 ### Truck Driver, Dot Foods
-- Ensured safe operation of heavy vehicles, adhering to traffic and safety regulations.
-- Maintained punctuality and reliability in delivery schedules, focusing on safety and efficiency.
-- Performed regular vehicle maintenance checks, guaranteeing safety and compliance with DOT standards.
+- Ensured safety compliance and reliability, skills critical in security settings.
 
-### Licensed Practical Nurse (LPN)
-- Provided quality patient care in high-stress environments, demonstrating the ability to stay calm and effective during emergencies.
-- Upheld a secure environment for patients and staff, adhering to health and safety protocols.
+### Licensed Practical Nurse (LPN) - Clinical Environment
+- Managed patient care and safety, relevant to security work's focus on safety and crisis management.
 
-### Full-Stack Java Developer
-- Developed secure web applications, prioritizing user safety and data protection.
-- Excelled in collaborative, team-based environments, enhancing communication and teamwork skills.
+## Additional Experience
 
-## Key Skills
-- Safety and Security Procedures
-- Emergency Response and Patient Care
-- Dependability and Punctuality
-- Effective Communication and Interpersonal Abilities
-- Problem Solving and Analytical Thinking
-- Teamwork and Cooperation
+### Java Development - Coding Boot Camp
+- Acquired foundational knowledge in Java development, demonstrating technical proficiency and a quick learning ability.
 
-## Education
-- High School Diploma
+## Education and Certifications
+- Yellow Card Security Guard Certification
+- Commercial Transportation Studies
+- Zip Code Wilmington's Coding Boot Camp
 - Licensed Practical Nursing Diploma
+- High School Diploma
 
 ## Additional Information
-- Holds a valid driver's license with a clean driving record.
-- Ready to undergo background investigation and drug screening as per job requirements.
-
-## References
-Available upon request.
+- Valid driver's license with a clean driving record.
+- Prepared for background investigation and drug screening.
