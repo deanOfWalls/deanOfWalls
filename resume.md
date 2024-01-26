@@ -34,27 +34,18 @@
 ## Personal Projects
 
 ### CRUD Demo
-  * [Live demo](http://crud_demo.deanwalls.com) for managing entries in an H2 database.
-  * Developed with Java, Spring Boot, jQuery, and H2 using MVC pattern.
-  * Features a client-server architecture with a responsive jQuery frontend and a Java/Spring Boot backend.
-  * Utilizes an H2 in-memory database for efficient data storage and retrieval.
+  * [Live demo](http://crud_demo.deanwalls.com) for managing database entries.
+  * Developed using Java, Spring Boot, jQuery, and H2, following the MVC pattern.
 
 #### Back-End Development
-  * Spring Boot backend for CRUD operations and server stats retrieval.
-  * Crafted RESTful APIs, integrated services with Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
-  * Implemented business logic in the service layer and database interactions through Spring Data JPA.
-  * Structured the application for easy maintenance and scalability, adhering to the principles of clean, modular code.
+  * Implemented Spring Boot backend for CRUD operations, RESTful APIs, and server stats retrieval. Configured CORS for enhanced security and integration.
 
 #### Front-End Development
-  * Hosted on Github Pages with HTML, CSS, and dynamic data operations using jQuery.
-  * Utilized jQuery for AJAX calls to ensure seamless data exchange and page updates without reloading.
-  * Incorporated CORS for secure front-to-back-end communication.
-  * Designed an intuitive UI flow allowing users to view, add, edit, and delete entries, enhancing user experience.
-  * Integrated Thymeleaf with jQuery to render dynamic content efficiently.
+  * Developed a dynamic front-end hosted on Github Pages, using HTML, CSS, and jQuery for AJAX-driven interactions.
 
-#### Containerization and Deployment
-  * Containerized using Docker for consistent development and production environments.
-  * Deployed to the cloud via Render.com, featuring automated uptime management with a bash curl script in Dockerfile.
+#### Deployment
+  * Application containerized with Docker, ensuring a consistent environment. Deployed on Render.com with an automated management script for reliability.
+
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">
