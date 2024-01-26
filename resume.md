@@ -89,6 +89,8 @@
 * Conducted pre-trip and post-trip inspections, performed maintenance.
 * Managed reefer units, fuel, and electronic logs for trip planning.
 
+<div style="page-break-before: always;"></div>
+
 ### Technical Support Advisor
 
 #### Kelly Connect; Remote
