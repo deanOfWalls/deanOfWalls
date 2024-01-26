@@ -67,7 +67,7 @@
 
 ### Software Developer
 
-#### Zip Code Wilmington (Coding Boot Camp); Wilmington, DE.
+#### Zip Code Wilmington (Coding Boot Camp Student); Wilmington, DE.
 
 ##### February 2023 - May 2023
 
@@ -100,6 +100,7 @@
 * Resolved issues for iOS, macOS, and other products/services.
 
 <div style="page-break-before: always;"></div>
+
 
 ## Education
 
