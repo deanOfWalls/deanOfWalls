@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
 
@@ -37,16 +37,29 @@
   * [Live demo](http://crud_demo.deanwalls.com) for managing entries in an H2 database.
   * Developed with Java, Spring Boot, jQuery, and H2 using MVC pattern.
 
-### Back-End Development
+#### Back-End Development
   * Spring Boot backend for CRUD operations and server stats retrieval.
   * Crafted RESTful APIs, integrated services with Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
 
-### Front-End Development
+#### Front-End Development
   * Hosted on Github Pages with HTML, CSS, and AJAX for dynamic data operations.
   * Incorporated CORS for secure front-to-back-end communication.
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">
+
+### noBS LinkedIn Job Filter
+  * [Project Repository](https://github.com/deanOfWalls/noBS_LinkedIn_Job_Filter) for a LinkedIn job search Chrome Extension.
+  * Built with JavaScript, focusing on Chrome Extension APIs and user interface customization.
+
+#### Key Features
+  * Tailors LinkedIn job searches with custom filters like location, job posting time, keyword inclusion/exclusion.
+  * Enables users to define search parameters like distance and easy apply options via a dynamic overlay.
+
+#### Technical Highlights
+  * Constructs and navigates custom search URLs based on user preferences for targeted job searches.
+  * Uses Chrome's storage API for saving user settings, ensuring a personalized and consistent experience.
+
 
 ## Experience
 
@@ -86,8 +99,11 @@
 
 ## Education
 
-| 2023 | Curriculeon   | Software Development Mentorship |
-|------|---------------------------------|-----------------------|
-| 2023 | Zip Code Wilmington (Coding Boot Camp) | Software Development |
-| 2019 | Delaware Technical and Community College | Commercial Transportation Studies |
-| 2014 | Delaware Technical and Community College | Nursing |
+| Year | Institution/Organization                         | Program/Course                      |
+|------|-------------------------------------------------|------------------------------------|
+| 2023 | JPMorgan Chase & Co. / Forage                   | Software Engineering Lite Module   |
+| 2023 | Curriculeon                                     | Software Development Mentorship    |
+| 2023 | Zip Code Wilmington (Coding Boot Camp)          | Software Development               |
+| 2019 | Delaware Technical and Community College        | Commercial Transportation Studies  |
+| 2014 | Delaware Technical and Community College        | Nursing                            |
+
