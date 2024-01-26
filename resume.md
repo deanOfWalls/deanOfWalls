@@ -38,7 +38,7 @@
   * Developed using Java, Spring Boot, jQuery, and H2, following the MVC pattern.
 
 #### Back-End Development
-  * Implemented Spring Boot backend for CRUD operations, RESTful APIs, and server stats retrieval. Configured CORS for enhanced security and integration.
+  * Implemented Spring Boot backend for CRUD operations, RESTful APIs, health-check, and server stats retrieval. Configured CORS for enhanced security and integration.
 
 #### Front-End Development
   * Developed a dynamic front-end hosted on Github Pages, using HTML, CSS, and jQuery for AJAX-driven interactions.
@@ -103,11 +103,10 @@
 
 ## Education
 
-| Year | Institution/Organization                         | Program/Course                      |
-|------|-------------------------------------------------|------------------------------------|
-| 2023 | JPMorgan Chase & Co. / Forage                   | Software Engineering Lite Module   |
-| 2023 | Curriculeon                                     | Software Development Mentorship    |
-| 2023 | Zip Code Wilmington (Coding Boot Camp)          | Software Development               |
-| 2019 | Delaware Technical and Community College        | Commercial Transportation Studies  |
-| 2014 | Delaware Technical and Community College        | Nursing                            |
-
+| Year | Institution/Organization                                                                   | Program/Course                      |
+|------|-------------------------------------------------------------------------------------------|------------------------------------|
+| 2023 | [JPMorgan Chase & Co. / Forage](forage.pdf)                                               | Software Engineering Lite Module   |
+| 2023 | [Curriculeon](curriculeon.pdf)                                                           | Software Development Mentorship    |
+| 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)                                     | Software Development               |
+| 2019 | [Delaware Technical and Community College](driverCert.pdf)                                | Commercial Transportation Studies  |
+| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf)                                | Nursing                            |
