@@ -102,6 +102,7 @@
 <div style="page-break-before: always;"></div>
 
 
+
 ## Education
 
 | Year | Institution/Organization                                                                   | Program/Course                      |
