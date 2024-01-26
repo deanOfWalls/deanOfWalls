@@ -56,7 +56,6 @@
   * Containerized using Docker for consistent development and production environments.
   * Deployed to the cloud via Render.com, featuring automated uptime management with a bash curl script in Dockerfile.
 
-
 <div style="page-break-before: always;"></div>
 <br class="print-only">
 
