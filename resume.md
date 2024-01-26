@@ -51,16 +51,16 @@
 <br class="print-only">
 
 ### noBS LinkedIn Job Filter
-  * [Project Repository](https://github.com/deanOfWalls/noBS_LinkedIn_Job_Filter) for a LinkedIn job search Chrome Extension.
-  * Built with JavaScript, focusing on Chrome Extension APIs and user interface customization.
+  * [Project Repository](https://github.com/deanOfWalls/noBS_LinkedIn_Job_Filter) for enhancing LinkedIn job searches.
+  * Developed with JavaScript, focusing on Chrome Extension APIs and user interaction.
 
 #### Key Features
-  * Tailors LinkedIn job searches with custom filters like location, job posting time, keyword inclusion/exclusion.
-  * Enables users to define search parameters like distance and easy apply options via a dynamic overlay.
+  * Customizes LinkedIn job searches with filters like location, job posting time, and keyword preferences.
+  * Allows setting of search parameters such as distance and easy apply options.
 
 #### Technical Highlights
-  * Constructs and navigates custom search URLs based on user preferences for targeted job searches.
-  * Uses Chrome's storage API for saving user settings, ensuring a personalized and consistent experience.
+  * Builds and navigates custom search URLs based on user-selected filters for targeted job searches.
+  * Utilizes Chrome's storage API for saving user preferences, ensuring a seamless experience.
 
 
 ## Experience
@@ -91,8 +91,6 @@
 * Conducted pre-trip and post-trip inspections, performed maintenance.
 * Managed reefer units, fuel, and electronic logs for trip planning.
 
-<div style="page-break-before: always;"></div>
-
 ### Technical Support Advisor
 
 #### Kelly Connect; Remote
@@ -100,6 +98,8 @@
 ##### 2018 - 2019
 
 * Resolved issues for iOS, macOS, and other products/services.
+
+<div style="page-break-before: always;"></div>
 
 ## Education
 
