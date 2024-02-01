@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
 
@@ -74,13 +74,22 @@
 * Admitted into Zip Code Wilmington’s software development program.
 * Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
 
+### Security Officer
+
+#### Sunstates Security; Newport, DE
+
+##### January 2024 - Present
+
+* Ensured the safety and security of personnel and property at assigned locations through vigilant surveillance and patrol duties.
+* Responded promptly to incidents, provided detailed reports for each occurrence, and collaborated with law enforcement when necessary.
+
 ### Help Desk Support Technician
 
 #### CBIZ; Remote
 
-##### November 2023 - Present
+##### November 2023 - January 2024
 
-* Provide help desk support for colleagues at Edward Jones.
+* Provided help desk support for colleagues at Edward Jones.
 
 ### Commercial Driver
 
@@ -99,8 +108,8 @@
 
 * Resolved issues for iOS, macOS, and other products/services.
 
-<div style="page-break-before: always;"></div>
-<br>
+<!-- <div style="page-break-before: always;"></div>
+<br> -->
 
 ## Education
 
