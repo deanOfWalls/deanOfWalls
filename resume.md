@@ -81,7 +81,6 @@
 ##### January 2024 - Present
 
 * Ensured the safety and security of personnel and property at assigned locations through vigilant surveillance and patrol duties.
-* Responded promptly to incidents, provided detailed reports for each occurrence, and collaborated with law enforcement when necessary.
 
 ### Help Desk Support Technician
 
