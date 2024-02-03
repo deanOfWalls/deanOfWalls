@@ -56,7 +56,6 @@
 
 #### Key Features
   * Customizes LinkedIn job searches with filters like location, job posting time, and keyword preferences.
-  * Allows setting of search parameters such as distance and easy apply options.
 
 #### Technical Highlights
   * Builds and navigates custom search URLs based on user-selected filters for targeted job searches.
