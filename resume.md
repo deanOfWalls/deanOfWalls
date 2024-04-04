@@ -73,6 +73,14 @@
 * Admitted into Zip Code Wilmington’s software development program.
 * Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
 
+### Freelance Blockchain Developer
+
+#### Ethereum Smart Contract Deployment; Remote
+
+##### April 2024
+
+* Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
+
 ### Security Officer
 
 #### Sunstates Security; Newport, DE
