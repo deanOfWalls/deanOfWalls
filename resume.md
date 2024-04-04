@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
 
