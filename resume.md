@@ -89,6 +89,9 @@
 
 * Ensured the safety and security of personnel and property at assigned locations through vigilant surveillance and patrol duties.
 
+<div style="page-break-before: always;"></div>
+<br>
+
 ### Help Desk Support Technician
 
 #### CBIZ; Remote
@@ -105,9 +108,6 @@
 
 * Conducted pre-trip and post-trip inspections, performed maintenance.
 * Managed reefer units, fuel, and electronic logs for trip planning.
-
-<div style="page-break-before: always;"></div>
-<br>
 
 ### Technical Support Advisor
 
