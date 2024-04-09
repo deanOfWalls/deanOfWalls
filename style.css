@@ -113,3 +113,7 @@ footer {
   h4 {
     margin-left: calc(var(--base-indent) * 1);
   }
+
+  h4 {
+    margin-left: calc(var(--base-indent) * 2)
+  }
