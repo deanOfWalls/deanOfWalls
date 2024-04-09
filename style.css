@@ -103,3 +103,13 @@ footer {
         display: none;
     }
 }
+
+
+/* Base indentation value */
+:root {
+    --base-indent: 20px; /* Adjust base indentation as needed */
+  }
+  
+  h4 {
+    margin-left: calc(var(--base-indent) * 1);
+  }
