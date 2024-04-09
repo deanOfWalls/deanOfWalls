@@ -37,11 +37,11 @@
   * [Live demo](http://crud_demo.deanwalls.com) for managing database entries.
   * Developed using Java, Spring Boot, jQuery, and H2, following the MVC pattern.
 
-███ #### Back-End Development
-  ██████ * Implemented Spring Boot backend for CRUD operations, RESTful APIs, health-check, and server stats retrieval. Configured CORS for enhanced security and integration.
+  -Back-End Development
+    -Implemented Spring Boot backend for CRUD operations, RESTful APIs, health-check, and server stats retrieval. Configured CORS for enhanced security and integration.
 
-███ #### Front-End Development
-  ██████ * Developed a dynamic front-end hosted on Github Pages, using HTML, CSS, and jQuery for AJAX-driven interactions.
+#### Front-End Development
+  * Developed a dynamic front-end hosted on Github Pages, using HTML, CSS, and jQuery for AJAX-driven interactions.
 
 #### Deployment
   * Application containerized with Docker, ensuring a consistent environment. Deployed on Render.com with an automated management script for reliability.
