@@ -118,7 +118,7 @@ footer {
     margin-left: calc(var(--base-indent) * 2)
   }
 
-  /* Adjust line spacing between paragraphs */
-p {
-    margin-bottom: 10px; /* Adjust this value to your preference */
+/* Adjust line spacing for the entire document */
+body {
+    line-height: 1.5; /* Adjust this value to your preference */
 }
