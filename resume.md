@@ -97,9 +97,6 @@
 
 * Provided help desk support for colleagues at Edward Jones.
 
-<div style="page-break-before: always;"></div>
-<br>
-
 ### Commercial Driver
 
 #### DOT Foods; Bear, DE.
@@ -108,6 +105,9 @@
 
 * Conducted pre-trip and post-trip inspections, performed maintenance.
 * Managed reefer units, fuel, and electronic logs for trip planning.
+
+<div style="page-break-before: always;"></div>
+<br>
 
 ### Technical Support Advisor
 
