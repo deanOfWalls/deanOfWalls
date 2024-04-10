@@ -120,5 +120,5 @@ footer {
 
 /* Adjust line spacing for the entire document */
 body {
-    line-height: 1 !important; /* Adjust this value to your preference */
+    line-height: 1.5 !important; /* Adjust this value to your preference */
 }
