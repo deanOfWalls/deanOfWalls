@@ -47,8 +47,8 @@
   * Application containerized with Docker, ensuring a consistent environment. Deployed on Render.com with an automated management script for reliability.
 
 
-<div style="page-break-before: always;"></div>
-<br class="print-only">
+<!-- <div style="page-break-before: always;"></div>
+<br class="print-only"> -->
 
 ### noBS LinkedIn Job Filter
   * [Project Repository](https://github.com/deanOfWalls/noBS_LinkedIn_Job_Filter) for enhancing LinkedIn job searches.
@@ -61,6 +61,8 @@
   * Builds and navigates custom search URLs based on user-selected filters for targeted job searches.
   * Utilizes Chrome's storage API for saving user preferences, ensuring a seamless experience.
 
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 
 ## Experience
 
