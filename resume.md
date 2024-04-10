@@ -108,8 +108,6 @@
 * Conducted pre-trip and post-trip inspections, performed maintenance.
 * Managed reefer units, fuel, and electronic logs for trip planning.
 
-### Technical Support Advisor
-
 <!-- <div style="page-break-before: always;"></div>
 <br> -->
 
