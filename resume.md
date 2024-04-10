@@ -116,8 +116,8 @@
 
 * Resolved issues for iOS, macOS, and other products/services.
 
-<div style="page-break-before: always;"></div>
-<br>
+<!-- <div style="page-break-before: always;"></div>
+<br> -->
 
 ## Education
 
