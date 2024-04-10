@@ -123,6 +123,6 @@
 | Year | Institution/Organization                                                                   | Program/Course                      |
 |------|-------------------------------------------------------------------------------------------|------------------------------------|
 | 2023 | [JPMorgan Chase & Co. / Forage](forage.pdf)                                               | Software Engineering Lite Module   |
-| 2023 | Curriculeon                                                           | Software Development Mentorship    |
+<!-- | 2023 | Curriculeon                                                           | Software Development Mentorship    | -->
 | 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)                                     | Software Development               |
 | 2014 | [Delaware Technical and Community College](lpnDiploma.pdf)                                | Nursing                            |
