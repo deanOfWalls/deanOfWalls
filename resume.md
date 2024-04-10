@@ -89,9 +89,6 @@
 
 * Ensured the safety and security of personnel and property at assigned locations through vigilant surveillance and patrol duties.
 
-<div style="page-break-before: always;"></div>
-<br>
-
 ### Help Desk Support Technician
 
 #### CBIZ; Remote
@@ -99,6 +96,9 @@
 ##### November 2023 - January 2024
 
 * Provided help desk support for colleagues at Edward Jones.
+
+<div style="page-break-before: always;"></div>
+<br>
 
 ### Commercial Driver
 
