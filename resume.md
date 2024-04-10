@@ -110,12 +110,6 @@
 
 ### Technical Support Advisor
 
-#### Kelly Connect; Remote
-
-##### 2018 - 2019
-
-* Resolved issues for iOS, macOS, and other products/services.
-
 <!-- <div style="page-break-before: always;"></div>
 <br> -->
 
