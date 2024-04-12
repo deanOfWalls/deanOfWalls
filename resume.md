@@ -14,9 +14,8 @@
 
 # Christopher Dean Walls
 
-## Full-Stack Developer
+## Full-Stack Developer Skills
 
-### Skills
 &bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira
 
 <div class="pro-skills" style="text-indent: -9999px; opacity: 0.01; color: rgba(67, 70, 84, 0.01);">
