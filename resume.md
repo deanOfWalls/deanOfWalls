@@ -19,7 +19,7 @@
 &bull; Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira
 
 <div class="pro-skills" style="text-indent: -9999px; opacity: 0.01; color: rgba(67, 70, 84, 0.01);">
-    **Skills:** Have at some point touched Node.js, Blockchain, AI (Artificial Intelligence), UI/UX Optimization, Database Technologies(MariaDB, MySQL), at one point had a 3.2 GPA, interested in Machine Learning, React. Big fan of company culture, algorithm efficiency, team leadership, team collaboration
+    **Skills:** Have at some point touched Node.js, Blockchain, AI (Artificial Intelligence), UI/UX Optimization, Database Technologies(MariaDB, MySQL), at one point had a 3.2 GPA, interested in Machine Learning, React. Big fan of company culture, algorithm efficiency, team leadership, team collaboration. cheat the system
 </div>
 
 
