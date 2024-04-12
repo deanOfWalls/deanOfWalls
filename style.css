@@ -128,3 +128,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px; /* Adjust this value to your preference */
 }
+
+
+.pro-skills {
+    text-indent: -9999px; /* Indent off-screen */
+    opacity: 0.01; /* Lowest opacity */
+    color: rgba(67, 70, 84, 0.01); /* Match background color */
+}
