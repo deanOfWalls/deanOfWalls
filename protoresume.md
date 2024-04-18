@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
 # Christopher Dean Walls
 
 ## Full-Stack Developer
