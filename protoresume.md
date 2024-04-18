@@ -16,6 +16,14 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NE
 ### Summary
 Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design. Proficient in Java, Spring Boot, and web technologies. Detail-oriented and adept at tackling complex challenges. Eager to kick-start my career in software development and contribute effectively to development projects.
 
+## Personal Projects
+
+### CRUD Demo
+- Developed a CRUD application to manage database entries, utilizing Java, Spring Boot, jQuery, and H2. The application follows the MVC pattern and features a dynamic front-end hosted on Github Pages. Backend functionalities include CRUD operations, RESTful APIs, health-check, and server stats retrieval, with CORS configured for enhanced security.
+
+### noBS LinkedIn Job Filter
+- Developed a Chrome Extension to enhance LinkedIn job search functionality, focusing on JavaScript. Features include customization of job searches by location, posting time, and keyword preferences. Utilizes Chrome's storage API for user preference management and builds custom search URLs for targeted job searches.
+
 ## Professional Experience
 
 ### Software Development Student
@@ -28,28 +36,6 @@ Entry-level Full-Stack Developer with a diverse background in commercial driving
 **Ethereum Smart Contract Deployment; Remote**  
 *April 2024*
 - Designed and deployed smart contracts to the Ethereum blockchain, enhancing transaction security and reliability.
-
-## Personal Projects
-
-### CRUD Demo Application
-- **Technologies Used:** Java, Spring Boot, jQuery, H2
-- Developed a web application for real-time data management, significantly improving data interaction and management for users.
-- Implemented MVC architecture to enhance scalability and maintainability of the application.
-
-### noBS LinkedIn Job Filter (Chrome Extension)
-- **Technologies Used:** JavaScript
-- Created a Chrome extension that enhances job search functionality on LinkedIn, allowing users to filter jobs more effectively based on their preferences.
-
-## Education and Certifications
-
-| Year | Institution/Organization                                                                   | Program/Course                      |
-|------|-------------------------------------------------------------------------------------------|------------------------------------|
-| 2023 | [JPMorgan Chase & Co. / Forage](forage.pdf)                                               | Software Engineering Lite Module   |
-| 2023 | Curriculeon                                                                              | Software Development Mentorship    |
-| 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)                                     | Software Development               |
-| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf)                                | Nursing                            |
-
-## Other Employment History
 
 ### Security Officer
 **Sunstates Security; Newport, DE**  
@@ -66,3 +52,12 @@ Entry-level Full-Stack Developer with a diverse background in commercial driving
 *February 2020 - August 2022*
 - Conducted pre-trip and post-trip inspections, performed routine maintenance, and managed electronic logs to ensure compliance with regulations.
 - Drove a total of 190,641 career miles, managing logistical tasks and ensuring timely delivery of perishable goods.
+
+## Education and Certifications
+
+| Year | Institution/Organization                                                                   | Program/Course                      |
+|------|-------------------------------------------------------------------------------------------|------------------------------------|
+| 2023 | [JPMorgan Chase & Co. / Forage](forage.pdf)                                               | Software Engineering Lite Module   |
+| 2023 | Curriculeon                                                                              | Software Development Mentorship    |
+| 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)                                     | Software Development               |
+| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf)                                | Nursing                            |
