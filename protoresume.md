@@ -11,7 +11,7 @@
 - **LinkedIn:** [https://www.linkedin.com/in/deanofwalls/](https://www.linkedin.com/in/deanofwalls/)
 
 ## Technical Skills
-Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira
+Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
 
 ### Summary
 Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design. Proficient in Java, Spring Boot, and web technologies. Detail-oriented and adept at tackling complex challenges. Eager to kick-start my career in software development and contribute effectively to development projects.
