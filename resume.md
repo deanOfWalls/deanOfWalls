@@ -14,14 +14,15 @@
 
 # Christopher Dean Walls
 
+## Technical Skills
+Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
+
 ### Contact Information
 
 * Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
 * Phone: [`302-241-3736`](tel:+1-302-241-3736)
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
-## Technical Skills
-Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
 
 ### Summary
 
