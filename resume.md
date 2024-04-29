@@ -65,10 +65,10 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 <br class="print-only">
 
 ### Bachelor Strength [BS]
-Personal fitness calculator and workout routine application.
+* Personal fitness calculator and workout routine application.
 
 #### Technologies
-Java, Spring Boot, React.js
+* Java, Spring Boot, React.js
 
 #### Key Features
 * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
