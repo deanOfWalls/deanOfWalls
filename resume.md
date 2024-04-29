@@ -15,7 +15,7 @@
 # Christopher Dean Walls
 
 ## Technical Skills
-Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
+Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React.js &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
 
 ### Contact Information
 
@@ -63,6 +63,14 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; C# &bull; .NE
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">
+
+### Bachelor Strength [BS]
+* **Description**: Personal fitness calculator and workout routine application.
+* **Technologies**: Java, Spring Boot, React.js
+* **Key Features**:
+  * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
+  * Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
+
 
 ## Experience
 
