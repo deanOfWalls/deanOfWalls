@@ -84,14 +84,14 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 * Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
 
-### Student Software Developer - Zip Code Wilmington; Wilmington, DE
+### Student Software Developer - Zip Code Wilmington; DE
 
 ##### February 2023 - May 2023
 
 * Admitted into Zip Code Wilmington’s software development program.
 * Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
 
-### Security Officer - Sunstates Security; Newport, DE
+### Security Officer - Sunstates Security; DE
 
 ##### January 2024 - Present
 
@@ -99,7 +99,7 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ##### November 2023 - January 2024
 
-### Commercial Driver - DOT Foods; Bear, DE
+### Commercial Driver - DOT Foods; DE
 
 ##### February 2020 - August 2022
 
