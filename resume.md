@@ -78,13 +78,13 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ## Experience
 
-### Freelance Blockchain Developer - Ethereum Smart Contract Deployment; Remote
+### Ethereum Blockchain Developer - Venture LLC; Remote Freelance
 
 ##### April 2024
 
 * Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
 
-### Student Software Developer - Zip Code Wilmington (Coding Boot Camp Student); Wilmington, DE.
+### Student Software Developer - Zip Code Wilmington; Wilmington, DE.
 
 ##### February 2023 - May 2023
 
