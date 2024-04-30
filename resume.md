@@ -82,7 +82,8 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ##### April 2024
 
-* Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
+* Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. 
+* Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
 
 ### Student Software Developer - Zip Code Wilmington; DE
 
