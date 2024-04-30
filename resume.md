@@ -21,21 +21,21 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 * Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
 * Phone: [`302-241-3736`](tel:+1-302-241-3736)
-* Address: Middletown, DE 19709
+* Address: [`Middletown, DE 19709`]()
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
 ### Professional Summary
 
 * Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design, bringing a unique perspective to software development.
-* Proficient in multiple programming languages including Java, JavaScript, TypeScript, and C#, with a strong foundation in object-oriented programming (OOP).
+* Proficient in multiple programming languages with a focus on Java and a strong foundation in object-oriented programming (OOP).
 * Eager to initiate my career in software development, ready to contribute effectively to projects by utilizing my coding, debugging, and team collaboration skills.
 
 ## Personal Projects
 
 ### CRUD Demo
   * [Live demo](http://crud_demo.deanwalls.com) for managing database entries.
-  * Developed using Java, Spring Boot, jQuery, and H2, following the MVC pattern.
+  * Developed using Java, Spring Boot, jQuery, and H2, following MVC architecture.
 
 #### Back-End Development
   * Implemented Spring Boot backend for CRUD operations, RESTful APIs, health-check, and server stats retrieval. 
@@ -47,7 +47,6 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 #### Deployment
   * Application containerized with Docker, ensuring a consistent environment. 
   * Deployed on Render.com with an automated management script for reliability.
-
 
 <!-- <div style="page-break-before: always;"></div>
 <br class="print-only"> -->
@@ -75,8 +74,6 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 #### Key Features
 * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
 * Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
-
-
 
 ## Experience
 
