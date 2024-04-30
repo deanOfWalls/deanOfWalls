@@ -78,38 +78,28 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ## Experience
 
-### Software Developer
+### Freelance Blockchain Developer - Ethereum Smart Contract Deployment; Remote
 
-#### Zip Code Wilmington (Coding Boot Camp Student); Wilmington, DE.
+##### April 2024
+
+* Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
+
+### Student Software Developer - Zip Code Wilmington (Coding Boot Camp Student); Wilmington, DE.
 
 ##### February 2023 - May 2023
 
 * Admitted into Zip Code Wilmington’s software development program.
 * Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
 
-### Freelance Blockchain Developer
-
-#### Ethereum Smart Contract Deployment; Remote
-
-##### April 2024
-
-* Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
-
-### Security Officer
-
-#### Sunstates Security; Newport, DE
+### Security Officer - Sunstates Security; Newport, DE
 
 ##### January 2024 - Present
 
-### Help Desk Support Technician
-
-#### CBIZ; Remote
+### Help Desk Support Technician - CBIZ; Remote
 
 ##### November 2023 - January 2024
 
-### Commercial Driver
-
-#### DOT Foods; Bear, DE.
+### Commercial Driver - DOT Foods; Bear, DE.
 
 ##### February 2020 - August 2022
 
