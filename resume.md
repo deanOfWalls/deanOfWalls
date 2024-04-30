@@ -21,6 +21,7 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 * Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
 * Phone: [`302-241-3736`](tel:+1-302-241-3736)
+* Address: Middletown, DE 19709
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
