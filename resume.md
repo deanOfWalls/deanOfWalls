@@ -84,7 +84,7 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 * Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
 
-### Student Software Developer - Zip Code Wilmington; Wilmington, DE.
+### Student Software Developer - Zip Code Wilmington; Wilmington, DE
 
 ##### February 2023 - May 2023
 
@@ -99,7 +99,7 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ##### November 2023 - January 2024
 
-### Commercial Driver - DOT Foods; Bear, DE.
+### Commercial Driver - DOT Foods; Bear, DE
 
 ##### February 2020 - August 2022
 
