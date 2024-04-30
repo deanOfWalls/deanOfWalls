@@ -25,12 +25,13 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
-### Summary
+### Professional Summary
 
-* Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design.
-* Proficient in Java, Spring Boot, and web technologies.
-* Detail-oriented and adept at tackling complex challenges.
-* Eager to kick-start my career in software development and contribute effectively to development projects.
+* Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design, bringing a unique perspective to software development.
+* Proficient in Java, Spring Boot, JavaScript, and web technologies, with a strong foundation in object-oriented programming (OOP) principles.
+* Skilled in multiple programming languages including Java, JavaScript, TypeScript, and C#, which enable me to tackle complex software development challenges effectively.
+* Detail-oriented and adept at diagnosing and solving problems, committed to delivering high-quality software solutions.
+* Eager to kick-start my career in software development and contribute effectively to development projects, utilizing my skills in coding, debugging, and collaborative development.
 
 ## Personal Projects
 
