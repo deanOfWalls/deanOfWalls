@@ -101,26 +101,17 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 
 ##### January 2024 - Present
 
-* Ensured the safety and security of personnel and property at assigned locations through vigilant surveillance and patrol duties.
-
 ### Help Desk Support Technician
 
 #### CBIZ; Remote
 
 ##### November 2023 - January 2024
 
-* Provided help desk support for colleagues at Edward Jones.
-
 ### Commercial Driver
 
 #### DOT Foods; Bear, DE.
 
 ##### February 2020 - August 2022
-
-* Conducted pre-trip and post-trip inspections, performed maintenance.
-* Managed reefer units, fuel, and electronic logs for trip planning.
-* Drove a total of 190,641 career miles, managing logistical tasks and ensuring timely delivery of perishable goods.
-
 
 <!-- <div style="page-break-before: always;"></div>
 <br> -->
