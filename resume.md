@@ -28,8 +28,8 @@ Java &bull; Spring Boot &bull; JavaScript &bull; TypeScript &bull; React &bull; 
 ### Professional Summary
 
 * Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design, bringing a unique perspective to software development.
-* Skilled in multiple programming languages including Java, JavaScript, TypeScript, and C#, with solid skills in object-oriented programming (OOP).
-* Eager to kick-start my career in software development and contribute effectively to development projects, utilizing my skills in coding, debugging, and collaborative development.
+* Proficient in multiple programming languages including Java, JavaScript, TypeScript, and C#, with a strong foundation in object-oriented programming (OOP).
+* Eager to initiate my career in software development, ready to contribute effectively to projects by utilizing my coding, debugging, and team collaboration skills.
 
 ## Personal Projects
 
