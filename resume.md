@@ -74,7 +74,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 #### Key Features
 * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
 * Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
-* Saved an average of 12 minutes per week for users by automating  fitness calculations. (Calculated based on estimated time saved per calculation, validated through user feedback.)
+* Saved an average of 12 minutes per week for users by automating  fitness calculations.
 
 ## Experience
 
@@ -85,7 +85,6 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. 
 * Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
 * Communicated project updates to client to ensure transparency and alignment.
-* Coordinated with client who acted as intermediary with the end-user to deliver project on time and within budget.
 
 ### Student Software Developer - Zip Code Wilmington; DE
 
