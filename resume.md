@@ -29,6 +29,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design, bringing a unique perspective to software development.
 * Proficient in multiple programming languages with a focus on Java and a strong foundation in object-oriented programming (OOP).
 * Eager to initiate my career in software development, ready to contribute effectively to projects by utilizing my coding, debugging, and team collaboration skills.
+* Effective communicator and collaborator with a proven track record in project coordination and management. 
 
 ## Personal Projects
 
@@ -45,7 +46,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 #### Deployment
   * Application containerized with Docker, ensuring a consistent environment. 
-  * Deployed on Render.com with an automated management script for reliability.
+  * Deployed on Render.com with an automated management script for reliability, at $0 cost.
 
 <!-- <div style="page-break-before: always;"></div>
 <br class="print-only"> -->
@@ -73,6 +74,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 #### Key Features
 * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
 * Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
+* Saved an average of 12 minutes per week for users by automating  fitness calculations. (Calculated based on estimated time saved per calculation, validated through user feedback.)
 
 ## Experience
 
@@ -82,6 +84,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 * Configured and deployed an Ethereum smart contract to the Sepolia testnet, utilizing Hardhat tools including Toolbox and Ignition plugins. 
 * Oversaw environment setup and network configurations, demonstrating hands-on proficiency in blockchain deployment techniques.
+* Communicated project updates to client to ensure transparency and alignment.
+* Coordinated with client who acted as intermediary with the end-user to deliver project on time and within budget.
 
 ### Student Software Developer - Zip Code Wilmington; DE
 
@@ -89,6 +93,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 * Admitted into Zip Code Wilmington’s software development program.
 * Gained 1000+ hours of experience in Java, test-driven development, and full-stack development.
+* Showcased leadership abilities in AGILE environment through group projects.
 
 ### Security Officer - Sunstates Security; DE
 
