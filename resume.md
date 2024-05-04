@@ -26,10 +26,9 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### Professional Summary
 
-* Entry-level Full-Stack Developer with a diverse background in commercial driving, technical support, nursing, and game design, bringing a unique perspective to software development.
+* Full-Stack Developer with a diverse background in truck driving, help desk, nursing, and game design.
 * Proficient in multiple programming languages with a focus on Java and a strong foundation in object-oriented programming (OOP).
-* Eager to initiate my career in software development, ready to contribute effectively to projects by utilizing my coding, debugging, and team collaboration skills.
-* Effective communicator and collaborator with a proven track record in project coordination and management. 
+* Effective communicator and collaborator eager to initiate my career in software development, ready to contribute effectively to projects by utilizing my coding, debugging, coordination, and management skills.
 
 ## Personal Projects
 
