@@ -25,11 +25,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
 ### Professional Summary
-* Full-Stack Developer with a diverse background in truck driving, help desk, nursing, and game design.
-* Proficient in multiple programming languages with a focus on Java and a strong foundation in object-oriented programming (OOP).
-* Effective communicator and collaborator eager to initiate my career in software development, ready to contribute effectively to projects using coding, debugging, coordination, and management skills.
-
-
+* Full-Stack Developer with diverse experience in truck driving, help desk, nursing, and game design.
+* Proficient in Java and other languages, skilled in coding, debugging, coordination, and management.
 
 ## Personal Projects
 
