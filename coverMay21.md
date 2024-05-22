@@ -19,8 +19,10 @@
 - Website: [`http://deanwalls.com`](http://deanwalls.com)
 - LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
+
 ### Hiring Manager
 IntelliBridge  
+Position: Front-End Developer  
 Remote
 
 Dear Hiring Manager,
