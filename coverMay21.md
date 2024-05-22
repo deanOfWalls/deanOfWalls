@@ -1,4 +1,4 @@
-<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
+<!-- Markdown and HTML mix to potentially enhance document styling when rendered in environments that support HTML -->
 
 <div class="header-bar"></div>
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
@@ -10,18 +10,20 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
-
-# Christopher Dean Walls
+## Christopher Dean Walls
 
 ### Contact Information
 
-* Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
-* Phone: [`302-241-3736`](tel:+1-302-241-3736)
-* Website: [`http://deanwalls.com`](http://deanwalls.com)
-* LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
+- Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
+- Phone: [`302-241-3736`](tel:+1-302-241-3736)
+- Website: [`http://deanwalls.com`](http://deanwalls.com)
+- LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 
-Hello,
+### Hiring Manager
+IntelliBridge  
+Remote
+
+Dear Hiring Manager,
 
 I am writing to express my interest in the Front-End Developer position listed on your website for IntelliBridge. With a foundation in Java, Spring Boot, and JavaScript, supplemented by skills in React.js, jQuery, HTML, and CSS, and backed by hands-on project experiences and a rigorous academic background from Zip Code Wilmington’s software development program, I am eager to bring my capabilities to IntelliBridge’s esteemed project team.
 
@@ -36,5 +38,3 @@ Thank you for considering my application. I am looking forward to the possibilit
 Sincerely,
 
 Christopher Dean Walls
-
-
