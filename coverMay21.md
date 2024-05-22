@@ -1,15 +1,21 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
 Christopher Dean Walls
+
 302-241-3736
+
 deanofwalls@gmail.com
+
 http://deanwalls.com
+
 https://linkedin.com/in/deanofwalls
 
 Date: May 21, 2024
 
 Hiring Manager
+
 IntelliBridge
+
 Remote
 
 Hello,
