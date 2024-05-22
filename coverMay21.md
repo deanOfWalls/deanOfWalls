@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
 Christopher Dean Walls
 302-241-3736
 deanofwalls@gmail.com
