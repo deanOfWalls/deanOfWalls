@@ -31,6 +31,7 @@ I am particularly drawn to this opportunity at IntelliBridge because of your com
 Thank you for considering my application. I am looking forward to the possibility of discussing how my background, skills, and enthusiasms align with the goals of IntelliBridge, and I am eager to contribute to your team.
 
 Sincerely,
+
 Christopher Dean Walls
 
 
