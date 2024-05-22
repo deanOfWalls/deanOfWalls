@@ -1,23 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-Christopher Dean Walls
-
-302-241-3736
-
-deanofwalls@gmail.com
-
-http://deanwalls.com
-
-https://linkedin.com/in/deanofwalls
-
-Date: May 21, 2024
-
-Hiring Manager
-
-IntelliBridge
-
-Remote
-
 Hello,
 
 I am writing to express my interest in the Front-End Developer position listed on your website for IntelliBridge. With a foundation in Java, Spring Boot, and JavaScript, supplemented by skills in React.js, jQuery, HTML, and CSS, and backed by hands-on project experiences and a rigorous academic background from Zip Code Wilmington’s software development program, I am eager to bring my capabilities to IntelliBridge’s esteemed project team.
