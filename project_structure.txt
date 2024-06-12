@@ -1,0 +1,26 @@
+.
+├── assets
+│   └── css
+│       └── style.css
+├── _config.yml
+├── cover.md
+├── driverCert.pdf
+├── fileshare.html
+├── forage.pdf
+├── Gemfile
+├── Gemfile.lock
+├── jerkyll-theme-modernist.gemspec
+├── lpnDiploma.pdf
+├── project_structure.txt
+├── protoresume.md
+├── README.md
+├── resume.docx
+├── resume.md
+├── resume.pdf
+├── securityGuardCert.png
+├── SecurityResume.md
+├── style.css
+├── to-do.txt
+└── zipcode.pdf
+
+3 directories, 21 files
