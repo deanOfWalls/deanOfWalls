@@ -15,7 +15,7 @@
 # Christopher Dean Walls
 
 ## Technical Skills
-Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux &bull; Notepad++
+Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
 
 ### Contact Information
 
@@ -45,8 +45,26 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
   * Application containerized with Docker, ensuring a consistent environment. 
   * Deployed on Render.com with an automated management script for reliability, at $0 cost.
 
-<!-- <div style="page-break-before: always;"></div>
-<br class="print-only"> -->
+### Lenovo M93p Home Server Setup
+  * **Project Description**: Acquired and repurposed an old Lenovo M93p by installing Alpine Linux. Set up an Apache web server and configured SSL certificates for a professional portfolio and a subdomain for a file server.
+  * **Technologies Used**: Alpine Linux, Apache, SSL, Spring Boot, GitHub Webhooks, CI/CD.
+  * **Key Features**:
+    * Configured Apache web server and secured it with SSL certificates for both the main domain and subdomain.
+    * Set up a file server to store and serve video lectures for collaborative study.
+    * Configured multiple .conf files to optimize server performance and security.
+    * Modified DNS settings to create "A records" for domain and subdomain routing.
+    * Implemented a Spring Boot controller to manage portfolio files and handle automatic updates through a GitHub webhook, ensuring continuous integration and delivery.
+
+### Bachelor Strength [BS]
+  * Personal fitness calculator and workout routine application.
+
+#### Technologies
+  * Java, Spring Boot, React.js
+
+#### Key Features
+  * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
+  * Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
+  * Saved an average of 12 minutes per week for users by automating fitness calculations.
 
 ### noBS LinkedIn Job Filter
   * [Project Repository](https://github.com/deanOfWalls/noBS_LinkedIn_Job_Filter) for enhancing LinkedIn job searches.
@@ -58,20 +76,6 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 #### Technical Highlights
   * Builds and navigates custom search URLs based on user-selected filters for targeted job searches.
   * Utilizes Chrome's storage API for saving user preferences, ensuring a seamless experience.
-
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
-### Bachelor Strength [BS]
-* Personal fitness calculator and workout routine application.
-
-#### Technologies
-* Java, Spring Boot, React.js
-
-#### Key Features
-* Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
-* Weekly Workout Routine: Provides a hypertrophy-focused routine for fitness goals.
-* Saved an average of 12 minutes per week for users by automating  fitness calculations.
 
 ## Experience
 
@@ -102,9 +106,6 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 ### Commercial Driver - DOT Foods; DE
 
 ##### February 2020 - August 2022
-
-<!-- <div style="page-break-before: always;"></div>
-<br> -->
 
 ## Education
 
