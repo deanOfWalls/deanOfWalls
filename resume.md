@@ -55,8 +55,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
     * Modified DNS settings to create "A records" for domain and subdomain routing.
     * Implemented a Spring Boot controller to manage portfolio files and handle automatic updates through a GitHub webhook, ensuring continuous integration and delivery.
 
-<!-- <div style="page-break-before: always;"></div>
-<br> -->
+<div style="page-break-before: always;"></div>
+<br>
 ### Bachelor Strength [BS]
   * Personal fitness calculator and workout routine application.
 
@@ -109,8 +109,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ##### February 2020 - August 2022
 
-<!-- <div style="page-break-before: always;"></div>
-<br> -->
+<div style="page-break-before: always;"></div>
+<br>
 ## Education
 
 | Year | Institution/Organization                                                                  | Program/Course                     |
