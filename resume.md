@@ -39,8 +39,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Spring Boot controller to receive GitHub webhook requests. Automates CI/CD by pulling changes from GitHub to home server.
 
 ### Lenovo M93p Home Server Setup
-* Alpine Linux, Apache, SSL, Spring Boot, GitHub Webhooks, CI/CD.
-* Configured Apache web server, SSL certificates, and file server.
+* Alpine Linux, Apache2 Web Server, SSL.
+* Configured Apache web server, SSL certificates, and file server, as well as portfolio and project deployments.
 
 ## Experience
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
@@ -52,7 +52,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
 * Developed multiple projects in an AGILE environment.
 
-<br>
+<div class="experience-education-space"></div>
 ## Education
 
 | Year | Institution/Organization | Program/Course |

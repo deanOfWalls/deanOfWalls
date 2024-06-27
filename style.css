@@ -94,3 +94,7 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0.01;
     color: rgba(67, 70, 84, 0.01);
 }
+
+.experience-education-space {
+    margin-bottom: 6px; /* Adjust this value for smaller space */
+}
