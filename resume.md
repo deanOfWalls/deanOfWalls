@@ -29,8 +29,8 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com)
 * Java, Spring Boot, jQuery, H2.
-* Implemented CRUD operations, RESTful APIs, and server stats retrieval.
-* Developed dynamic front-end with AJAX interactions.
+* Demonstrates CRUD operations (Create, Read, Update, Delete) via a RESTful API on entries in an H2 database with a dynamic front-end using AJAX interactions.
+
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js.
