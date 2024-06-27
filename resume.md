@@ -24,8 +24,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
-* Image steganography tool deployed on home server using Docker.
-* Conceal and reveal images with password protection.
+* Image steganography tool using Docker. Conceal and reveal images with password protection.
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
 * Java, Spring Boot, jQuery, H2
@@ -34,12 +33,10 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js
-* Fitness Calculator: Calculates BMI, TDEE, and calorie intake.
-* Weekly Workout Routine: Hypertrophy-focused fitness goals.
+* Fitness Calculator: Calculates BMI, TDEE, and calorie intake. Weekly Workout Routine: Hypertrophy-focused fitness goals.
 
 ### Webhook Portfolio - [Repository](https://github.com/deanOfWalls/webhook_portfolio)
-* Spring Boot controller to receive GitHub webhook requests.
-* Automates CI/CD by pulling changes from GitHub to home server.
+* Spring Boot controller to receive GitHub webhook requests. Automates CI/CD by pulling changes from GitHub to home server.
 
 ### Lenovo M93p Home Server Setup
 * Alpine Linux, Apache, SSL, Spring Boot, GitHub Webhooks, CI/CD.
