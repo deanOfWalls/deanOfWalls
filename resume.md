@@ -17,29 +17,25 @@ Full-Stack Developer with diverse experience in truck driving, help desk, nursin
 
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
 * Image steganography tool deployed on home server using Docker.
-* Allows users to conceal and reveal images with password protection.
-* Utilizes image concatenation method for steganography.
+* Conceal and reveal images with password protection using image concatenation.
 
-### CRUD Demo - [Live demo](http://crud_demo.deanwalls.com)
+### CRUD Demo - [Live demo](http://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
 * Java, Spring Boot, jQuery, H2
 * Implemented CRUD operations, RESTful APIs, health-check, and server stats retrieval.
-* Developed dynamic front-end with AJAX-driven interactions.
-* Containerized with Docker, deployed on Render.com.
+* Developed dynamic front-end with AJAX-driven interactions, containerized with Docker.
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js
 * Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
-* Weekly Workout Routine: Hypertrophy-focused routine for fitness goals.
+* Weekly Workout Routine: Hypertrophy-focused fitness goals.
 
 ### Webhook Portfolio - [Repository](https://github.com/deanOfWalls/webhook_portfolio)
 * Spring Boot controller to receive GitHub webhook requests.
-* Automatically pulls changes from GitHub repo to home server for CI/CD.
-* Ensures portfolio updates are reflected on the server where files are served.
+* Automates CI/CD by pulling changes from GitHub to home server.
 
 ### Lenovo M93p Home Server Setup
 * Alpine Linux, Apache, SSL, Spring Boot, GitHub Webhooks, CI/CD.
-* Configured Apache web server, SSL certificates, and file server.
-* Set up continuous integration and delivery with GitHub Webhooks.
+* Configured Apache web server, SSL certificates, and file server with CI/CD.
 
 ## Experience
 
@@ -47,14 +43,10 @@ Full-Stack Developer with diverse experience in truck driving, help desk, nursin
 * Configured and deployed Ethereum smart contract to Sepolia testnet using Hardhat.
 
 ### [02/2023 - 05/2023] Student Software Developer - Zip Code Wilmington; DE
-* 1000+ hours in Java, test-driven development, and full-stack development.
-* Leadership in AGILE environment through group projects.
+* 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
+* Developed multiple projects in an AGILE environment, showcasing proficiency in Java and full-stack development.
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
-
-### [11/2023 - 01/2024] Help Desk Support Technician - CBIZ; Remote
-
-### [02/2020 - 08/2022] Commercial Driver - DOT Foods; DE
 
 ## Education
 
