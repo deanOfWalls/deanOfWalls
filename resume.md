@@ -20,7 +20,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ## Professional Summary
 * Full-Stack Developer experienced in Java and Spring Boot, passionate about creating personal projects that enhance everyday computing and lifestyle routines.
-* Proficient in coding, debugging, and managing full-stack web applications, as well as of Agile methodologies and TDD.
+* Proficient in coding, debugging, and managing full-stack web applications.
 
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
