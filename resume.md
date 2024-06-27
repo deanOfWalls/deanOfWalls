@@ -4,7 +4,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 <script>
     function downloadAsPDF() {
-        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
         window.location.href = 'resume.pdf';
     }
 </script>
@@ -26,12 +25,12 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
 * Image steganography tool deployed on home server using Docker.
-* Conceal and reveal images with password protection using image concatenation.
+* Conceal and reveal images with password protection.
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
 * Java, Spring Boot, jQuery, H2
 * Implemented CRUD operations, RESTful APIs, health-check, and server stats retrieval.
-* Developed dynamic front-end with AJAX-driven interactions, containerized with Docker.
+* Developed dynamic front-end with AJAX interactions, containerized with Docker.
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js
@@ -44,7 +43,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### Lenovo M93p Home Server Setup
 * Alpine Linux, Apache, SSL, Spring Boot, GitHub Webhooks, CI/CD.
-* Configured Apache web server, SSL certificates, and file server with CI/CD.
+* Configured Apache web server, SSL certificates, and file server.
 
 ## Experience
 ### [04/2024] Ethereum Blockchain Developer - Venture LLC; Remote

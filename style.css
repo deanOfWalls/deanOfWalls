@@ -1,82 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
 
-/* * {
-    border: 3px solid red !important;
-} */
-
-
-/* header a, header ul,p:nth-child(2),h1:nth-child(1){
-    display:none;
-
-} */
-
-
-code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; overflow-x: auto; }
-
+code, pre { 
+    font-family: 'Sora', sans-serif; 
+    color: #2f68e1; 
+    font-size: 12px; 
+    overflow-x: auto; 
+}
 
 body {
     font-family: 'Sora', sans-serif;
-    background-color: rgb(67, 70, 84) ;
+    background-color: rgb(67, 70, 84);
+    line-height: 1.1 !important; /* Adjust this value to your preference */
+    font-size: 14px; /* Reduce font size to fit more content */
+    margin: 0;
+    padding: 0;
 }
 
 ul li a {
     color: #2f68e1 !important;
 }
 
-ul li a:hover {
-    color: #2f68e1 !important;
-}
-
-ul li a:visited {
-    color: #2f68e1 !important;
-}
-
-ul li a:active {
-    color: #2f68e1 !important;
-}
-
-
-
 .wrapper {
     background-color: white !important;
-    padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
-}
-
-.wrapper section {
-    background: transparent !important;
+    padding: 5px;
 }
 
 main, .main, .content, .post-content {
     background-color: white;
+    padding: 10px; /* Reduce padding */
 }
 
 .header, ::before, header h1, footer {
     font-family: 'Sora', sans-serif;
 }
 
-header {
-    font-size: 0;
-    color: transparent;
-    display: none;
-    content: none;
-}
-
-
-footer {
+header, footer {
     display: none;
 }
 
 .content-wrapper {
     background-color: white;
-    padding: 20px;
+    padding: 10px; /* Reduce padding */
 }
 
 .markdown-body .post-content a {
     color: blue;
-  }
+}
 
-
-/* Print-specific styles */
 @media print {
     .pagebreak {
         display: block;
@@ -89,7 +59,6 @@ footer {
     }
 }
 
-/* Screen-specific styles */
 @media screen {
     body {
         transform: scale(1.5);
@@ -104,34 +73,19 @@ footer {
     }
 }
 
-
-/* Base indentation value */
 :root {
-    --base-indent: 20px; /* Adjust base indentation as needed */
-  }
-  
-  h4 {
+    --base-indent: 20px;
+}
+
+h4 {
     margin-left: calc(var(--base-indent) * 1);
-  }
-
-  h5 {
-    margin-left: calc(var(--base-indent) * 2)
-  }
-
-/* Adjust line spacing for the entire document */
-body {
-    line-height: 1.2 !important; /* Adjust this value to your preference */
 }
 
+h5 {
+    margin-left: calc(var(--base-indent) * 2);
+}
 
-/* Adjust spacing after headers */
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 10px; /* Adjust this value to your preference */
+    margin-bottom: 5px; /* Reduce spacing after headers */
 }
 
-
-.pro-skills {
-    text-indent: -9999px; /* Indent off-screen */
-    opacity: 0.01; /* Lowest opacity */
-    color: rgba(67, 70, 84, 0.01); /* Match background color */
-}
