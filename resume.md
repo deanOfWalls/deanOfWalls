@@ -19,23 +19,25 @@
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
 
 ## Professional Summary
-* Full-Stack Developer, experience in truck driving, help desk, and game design.
-* Proficient in Java and other languages, skilled in coding, debugging, and management.
+* Full-Stack Developer experienced in Java and Spring Boot, passionate about creating personal projects that enhance everyday computing and lifestyle routines.
+* Proficient in coding, debugging, and managing full-stack web applications, with a solid understanding of Agile methodologies and test-driven development.
 
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
+* Java, Spring Boot, JavaScript, HTML, Thymeleaf, CSS.
 * Image steganography tool using Docker. Conceal and reveal images with password protection.
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com)
-* Java, Spring Boot, jQuery, H2
+* Java, Spring Boot, jQuery, H2.
 * Implemented CRUD operations, RESTful APIs, and server stats retrieval.
 * Developed dynamic front-end with AJAX interactions.
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
-* Java, Spring Boot, React.js
+* Java, Spring Boot, React.js.
 * Fitness Calculator: Calculates BMI, TDEE, and calorie intake. Weekly Workout Routine: Hypertrophy-focused fitness goals.
 
 ### Webhook Portfolio - [Repository](https://github.com/deanOfWalls/webhook_portfolio)
+* Java, Spring Boot.
 * Spring Boot controller to receive GitHub webhook requests. Automates CI/CD by pulling changes from GitHub to home server.
 
 ### Lenovo M93p Home Server Setup
