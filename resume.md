@@ -14,7 +14,7 @@
 
 # Christopher Dean Walls
 ## Contact Information
-[`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | [`302-241-3736`](tel:+1-302-241-3736) | [`http://deanwalls.com`](http://deanwalls.com) | [`LinkedIn`](https://www.linkedin.com/in/deanofwalls/) | [`GitHub`](https://github.com/deanOfWalls)
+[`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | [`302-241-3736`](tel:+1-302-241-3736) | [`https://deanwalls.com`](https://deanwalls.com) | [`LinkedIn`](https://www.linkedin.com/in/deanofwalls/) | [`GitHub`](https://github.com/deanOfWalls)
 
 ## Technical Skills
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
@@ -28,7 +28,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Image steganography tool deployed on home server using Docker.
 * Conceal and reveal images with password protection using image concatenation.
 
-### CRUD Demo - [Live demo](http://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
+### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
 * Java, Spring Boot, jQuery, H2
 * Implemented CRUD operations, RESTful APIs, health-check, and server stats retrieval.
 * Developed dynamic front-end with AJAX-driven interactions, containerized with Docker.
