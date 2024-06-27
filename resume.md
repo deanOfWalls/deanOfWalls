@@ -13,15 +13,11 @@
 <!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
 
 # Christopher Dean Walls
+## Contact Information
+Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | Phone: [`302-241-3736`](tel:+1-302-241-3736) | Website: [`http://deanwalls.com`](http://deanwalls.com) | LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/) | GitHub: [`https://github.com/deanOfWalls`](https://github.com/deanOfWalls)
+
 ## Technical Skills
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
-
-## Contact Information
-* Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
-* Phone: [`302-241-3736`](tel:+1-302-241-3736)
-* Website: [`http://deanwalls.com`](http://deanwalls.com)
-* LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
-* GitHub: [`https://github.com/deanOfWalls`](https://github.com/deanOfWalls)
 
 ## Professional Summary
 * Full-Stack Developer with diverse experience in truck driving, help desk, nursing, and game design.
@@ -66,4 +62,4 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 | 2024 | [Curriculeon](curriculeon_certificate.pdf)               | Intermediate Full Stack Web Development |
 | 2023 | [JPMorgan Chase & Co. / Forage](forage.pdf)              | Software Engineering Lite Module       |
 | 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)    | Software Development                   |
-| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf) | Nursing                            |
+| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf) | Nursing                                |
