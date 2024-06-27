@@ -14,7 +14,7 @@
 
 # Christopher Dean Walls
 ## Contact Information
-Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | Phone: [`302-241-3736`](tel:+1-302-241-3736) | Website: [`http://deanwalls.com`](http://deanwalls.com) | LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/) | GitHub: [`https://github.com/deanOfWalls`](https://github.com/deanOfWalls)
+[`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | [`302-241-3736`](tel:+1-302-241-3736) | [`http://deanwalls.com`](http://deanwalls.com) | [`LinkedIn`](https://www.linkedin.com/in/deanofwalls/) | [`GitHub`](https://github.com/deanOfWalls)
 
 ## Technical Skills
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
