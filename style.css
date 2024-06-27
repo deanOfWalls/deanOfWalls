@@ -3,15 +3,15 @@
 code, pre { 
     font-family: 'Sora', sans-serif; 
     color: #2f68e1; 
-    font-size: 11px; /* Slightly reduce font size */
+    font-size: 12px; 
     overflow-x: auto; 
 }
 
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(67, 70, 84);
-    line-height: 1.1 !important; /* Reduce line height */
-    font-size: 13px; /* Slightly reduce font size */
+    line-height: 1.1 !important;
+    font-size: 13px;
     margin: 0;
     padding: 0;
 }
@@ -22,12 +22,12 @@ ul li a {
 
 .wrapper {
     background-color: white !important;
-    padding: 3px; /* Reduce padding */
+    padding: 3px;
 }
 
 main, .main, .content, .post-content {
     background-color: white;
-    padding: 8px; /* Reduce padding */
+    padding: 6px; /* Reduce padding */
 }
 
 .header, ::before, header h1, footer {
@@ -40,7 +40,7 @@ header, footer {
 
 .content-wrapper {
     background-color: white;
-    padding: 8px; /* Reduce padding */
+    padding: 6px; /* Reduce padding */
 }
 
 .markdown-body .post-content a {
@@ -86,7 +86,7 @@ h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 5px; /* Reduce spacing after headers */
+    margin-bottom: 4px; /* Reduce spacing after headers */
 }
 
 .pro-skills {
