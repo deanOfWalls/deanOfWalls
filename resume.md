@@ -1,14 +1,29 @@
+<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script> -->
+
+<div class="header-bar"></div>
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<script>
+    function downloadAsPDF() {
+        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
+        window.location.href = 'resume.pdf';
+    }
+</script>
+<meta property="og:title" content="Dean-Walls-Public-Portfolio" />
+
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> -->
+
 # Christopher Dean Walls
-## Contact Information
+## Technical Skills
+Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
+### Contact Information
 * Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
 * Phone: [`302-241-3736`](tel:+1-302-241-3736)
 * Website: [`http://deanwalls.com`](http://deanwalls.com)
 * LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
 * GitHub: [`https://github.com/deanOfWalls`](https://github.com/deanOfWalls)
-## Technical Skills
-Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
-## Professional Summary
-Full-Stack Developer with diverse experience in truck driving, help desk, nursing, and game design. Proficient in Java and other languages, skilled in coding, debugging, coordination, and management.
+### Professional Summary
+* Full-Stack Developer with diverse experience in truck driving, help desk, nursing, and game design.
+* Proficient in Java and other languages, skilled in coding, debugging, coordination, and management.
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
 * Image steganography tool deployed on home server using Docker.
