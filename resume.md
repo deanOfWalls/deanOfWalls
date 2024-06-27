@@ -19,8 +19,8 @@
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
 
 ## Professional Summary
-* Full-Stack Developer with diverse experience in truck driving, help desk, nursing, and game design.
-* Proficient in Java and other languages, skilled in coding, debugging, coordination, and management.
+* Full-Stack Developer with experience in truck driving, help desk, nursing, and game design.
+* Proficient in Java and other languages, skilled in coding, debugging, and management.
 
 ## Personal Projects
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
@@ -29,12 +29,12 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
 * Java, Spring Boot, jQuery, H2
-* Implemented CRUD operations, RESTful APIs, health-check, and server stats retrieval.
-* Developed dynamic front-end with AJAX interactions, containerized with Docker.
+* Implemented CRUD operations, RESTful APIs, and server stats retrieval.
+* Developed dynamic front-end with AJAX interactions.
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js
-* Fitness Calculator: Calculates BMI, TDEE, recommended protein intake, and calorie intake.
+* Fitness Calculator: Calculates BMI, TDEE, and calorie intake.
 * Weekly Workout Routine: Hypertrophy-focused fitness goals.
 
 ### Webhook Portfolio - [Repository](https://github.com/deanOfWalls/webhook_portfolio)
@@ -51,7 +51,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### [02/2023 - 05/2023] Student Software Developer - Zip Code Wilmington; DE
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
-* Developed multiple projects in an AGILE environment, showcasing proficiency in Java and full-stack development.
+* Developed multiple projects in an AGILE environment.
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
 
