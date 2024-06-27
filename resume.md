@@ -34,7 +34,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js.
-* Fitness Calculator: Calculates BMI, TDEE, and calorie intake. Weekly Workout Routine: Hypertrophy-focused fitness goals.
+* Fitness Calculator: Calculates BMI, TDEE, and calorie intake, and displays a weekly workout routine.
 
 ### Webhook Portfolio - [Repository](https://github.com/deanOfWalls/webhook_portfolio)
 * Java, Spring Boot.
