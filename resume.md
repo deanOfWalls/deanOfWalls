@@ -26,7 +26,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 ### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
 * Image steganography tool using Docker. Conceal and reveal images with password protection.
 
-### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com) - [Repository](https://github.com/deanOfWalls/crud_demo)
+### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com)
 * Java, Spring Boot, jQuery, H2
 * Implemented CRUD operations, RESTful APIs, and server stats retrieval.
 * Developed dynamic front-end with AJAX interactions.
