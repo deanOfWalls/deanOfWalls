@@ -52,6 +52,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
 * Developed multiple projects in an AGILE environment.
 
+<br>
 ## Education
 
 | Year | Institution/Organization | Program/Course |
