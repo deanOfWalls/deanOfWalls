@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-Christopher Dean Walls  
+## Christopher Dean Walls  
 deanofwalls@gmail.com | 302-241-3736 | https://deanwalls.com 
 
 [06/27/2024]
