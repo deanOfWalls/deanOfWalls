@@ -19,7 +19,7 @@
 Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
 
 ## Professional Summary
-* Full-Stack Developer with experience in truck driving, help desk, nursing, and game design.
+* Full-Stack Developer, experience in truck driving, help desk, and game design.
 * Proficient in Java and other languages, skilled in coding, debugging, and management.
 
 ## Personal Projects
