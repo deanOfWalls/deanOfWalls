@@ -10,7 +10,7 @@ code, pre {
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(67, 70, 84);
-    line-height: 1.1 !important;
+    line-height: 1 !important; /* Reduce line height */
     font-size: 13px;
     margin: 0;
     padding: 0;
@@ -27,7 +27,7 @@ ul li a {
 
 main, .main, .content, .post-content {
     background-color: white;
-    padding: 6px; /* Reduce padding */
+    padding: 5px; /* Further reduce padding */
 }
 
 .header, ::before, header h1, footer {
@@ -40,7 +40,7 @@ header, footer {
 
 .content-wrapper {
     background-color: white;
-    padding: 6px; /* Reduce padding */
+    padding: 5px; /* Further reduce padding */
 }
 
 .markdown-body .post-content a {
@@ -86,7 +86,7 @@ h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 4px; /* Reduce spacing after headers */
+    margin-bottom: 3px; /* Further reduce spacing after headers */
 }
 
 .pro-skills {
