@@ -98,3 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 .experience-education-space {
     margin-bottom: 6px; /* Adjust this value for smaller space */
 }
+
+.experience-entry {
+    margin-bottom: 10px; /* Adjust this value for more space between entries */
+}

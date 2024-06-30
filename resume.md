@@ -31,7 +31,6 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Java, Spring Boot, jQuery, H2.
 * Demonstrates CRUD operations (Create, Read, Update, Delete) via a RESTful API on entries in an H2 database with a dynamic front-end using AJAX interactions.
 
-
 ### Bachelor Strength [BS] - [Repository](https://github.com/deanOfWalls/bachelor.strength)
 * Java, Spring Boot, React.js.
 * Fitness Calculator: Calculates BMI, TDEE, and calorie intake, and displays a weekly workout routine.
@@ -45,13 +44,17 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Configured Apache web server, SSL certificates, and file server, as well as portfolio and project deployments.
 
 ## Experience
+<div class="experience-entry">
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
-
+</div>
+<div class="experience-entry">
 ### [04/2024] Ethereum Blockchain Developer - Venture LLC; Remote
 * Configured and deployed Ethereum smart contract to Sepolia testnet using Hardhat.
-
+</div>
+<div class="experience-entry">
 ### [02/2023 - 05/2023] Student Software Developer - Zip Code Wilmington; DE
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
+</div>
 
 <div class="experience-education-space"></div>
 ## Education
