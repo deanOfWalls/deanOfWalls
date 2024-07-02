@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .experience-entry {
     margin-bottom: 0px !important; /* Set margin-bottom to 0 */
-    padding: 0 !important; /* Ensure no padding */
+    padding: 0px !important; /* Ensure no padding */
 }
 
 .experience-entry + .experience-entry {
@@ -110,16 +110,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .experience-entry * {
-    margin: 0 !important; /* Ensure no margin for all child elements */
-    padding: 0 !important; /* Ensure no padding for all child elements */
+    margin: 0px !important; /* Ensure no margin for all child elements */
+    padding: 0px !important; /* Ensure no padding for all child elements */
 }
 
 ul, li {
-    margin: 0 !important; /* Ensure no margin for list items */
-    padding: 0 !important; /* Ensure no padding for list items */
+    margin: 0px !important; /* Ensure no margin for list items */
+    padding: 0px !important; /* Ensure no padding for list items */
 }
 
 .experience-entry > p {
-    margin: 0 !important; /* Ensure no margin for paragraphs */
-    padding: 0 !important; /* Ensure no padding for paragraphs */
+    margin: 0px !important; /* Ensure no margin for paragraphs */
+    padding: 0px !important; /* Ensure no padding for paragraphs */
+}
+
+/* Additional tweaks to reduce spacing further */
+.experience-entry div {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.experience-entry span {
+    margin: 0 !important;
+    padding: 0 !important;
 }
