@@ -91,17 +91,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .experience-education-space {
     margin-bottom: 0px !important; /* Set margin-bottom to 0 */
+    padding-top: 0px !important; /* Set padding-top to 0 */
 }
 
 .experience-entry {
     margin-bottom: 0px !important; /* Set margin-bottom to 0 */
-    margin-top: 0px !important; /* Ensure no additional margin-top */
+    padding-top: 0px !important; /* Set padding-top to 0 */
 }
 
 .experience-entry + .experience-entry {
     margin-top: 0px !important; /* Ensure no additional space between consecutive entries */
+    padding-top: 0px !important; /* Ensure no additional padding-top */
 }
 
 .experience-entry:last-of-type {
     margin-bottom: 0px !important; /* Remove margin-bottom for the last entry */
+    padding-bottom: 0px !important; /* Remove padding-bottom for the last entry */
 }
