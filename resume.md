@@ -44,10 +44,10 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Configured Apache web server, SSL certificates, and file server, as well as portfolio and project deployments.
 
 ## Experience
+### [06/2024 - Present] Software Engineer Intern - Sunstates Security; DE
+* Work on software engineering tasks, contribute to internal projects, and gain practical experience in full-stack development.
+
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
-<div class="experience-entry"></div>
-### [04/2024] Ethereum Blockchain Developer - Venture LLC; Remote
-* Configured and deployed Ethereum smart contract to Sepolia testnet using Hardhat.
 <div class="experience-entry"></div>
 ### [02/2023 - 05/2023] Student Software Developer - Zip Code Wilmington; DE
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
