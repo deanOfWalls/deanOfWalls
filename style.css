@@ -113,3 +113,13 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 !important; /* Ensure no margin for all child elements */
     padding: 0 !important; /* Ensure no padding for all child elements */
 }
+
+ul, li {
+    margin: 0 !important; /* Ensure no margin for list items */
+    padding: 0 !important; /* Ensure no padding for list items */
+}
+
+.experience-entry > p {
+    margin: 0 !important; /* Ensure no margin for paragraphs */
+    padding: 0 !important; /* Ensure no padding for paragraphs */
+}
