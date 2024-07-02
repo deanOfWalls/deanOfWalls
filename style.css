@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
 
-code, pre {
-    font-family: 'Sora', sans-serif;
-    color: #2f68e1;
-    font-size: 12px;
-    overflow-x: auto;
+code, pre { 
+    font-family: 'Sora', sans-serif; 
+    color: #2f68e1; 
+    font-size: 12px; 
+    overflow-x: auto; 
 }
 
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(67, 70, 84);
-    line-height: 1 !important; /* Reduce line height */
+    line-height: 1.4 !important; /* Adjust line height for readability */
     font-size: 13px;
     margin: 0;
     padding: 0;
@@ -51,7 +51,7 @@ header, footer {
     .pagebreak {
         display: block;
         page-break-before: always;
-        page-break-after: always;
+        page-break-after: always; 
     }
 
     .print-only {
@@ -86,40 +86,13 @@ h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 3px; /* Further reduce spacing after headers */
+    margin-bottom: 5px; /* Adjust spacing after headers */
 }
 
-.experience-section {
-    margin-bottom: 0px !important;
-    padding-top: 0px !important;
+.experience-education-space {
+    margin-bottom: 8px; /* Adjust this value for better spacing */
 }
 
 .experience-entry {
-    margin-bottom: 5px !important;
-    padding: 0 !important;
-}
-
-.experience-entry h3 {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-.experience-entry p {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-ul, li {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-.experience-entry + .experience-entry {
-    margin-top: 5px !important;
-    padding-top: 0 !important;
-}
-
-.experience-entry:last-of-type {
-    margin-bottom: 0px !important;
-    padding-bottom: 0 !important;
+    margin-bottom: 10px; /* Adjust this value for more space between entries */
 }
