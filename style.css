@@ -10,8 +10,8 @@ code, pre {
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(67, 70, 84);
-    line-height: 1.15 !important; /* Adjust line height for better readability */
-    font-size: 13px;
+    line-height: 1.1 !important; /* Adjust line height for better readability */
+    font-size: 12px; /* Slightly reduce font size */
     margin: 0;
     padding: 0;
 }
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .experience-education-space {
-    margin-bottom: 2px; /* Adjust this value for smaller space */
+    margin-bottom: 1px; /* Adjust this value for smaller space */
 }
 
 .experience-entry {
