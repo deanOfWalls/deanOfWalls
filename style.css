@@ -111,3 +111,12 @@ table, th, td {
 th, td {
     text-align: left;
 }
+
+/* Reducing space between contact info and technical skills header */
+header, footer, .header-bar {
+    margin-bottom: 0 !important;
+}
+
+h2, h3 {
+    margin-top: 5px; /* Adjust spacing for headers */
+}
