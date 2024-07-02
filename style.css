@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
-code, pre { 
-    font-family: 'Sora', sans-serif; 
-    color: #2f68e1; 
-    font-size: 12px; 
-    overflow-x: auto; 
+code, pre {
+    font-family: 'Sora', sans-serif;
+    color: #2f68e1;
+    font-size: 12px;
+    overflow-x: auto;
 }
 
 body {
@@ -51,7 +51,7 @@ header, footer {
     .pagebreak {
         display: block;
         page-break-before: always;
-        page-break-after: always; 
+        page-break-after: always;
     }
 
     .print-only {
@@ -89,48 +89,37 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 3px; /* Further reduce spacing after headers */
 }
 
-.experience-education-space {
-    margin-bottom: 0px !important; /* Set margin-bottom to 0 */
-    padding-top: 0px !important; /* Set padding-top to 0 */
+.experience-section {
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
 }
 
 .experience-entry {
-    margin-bottom: 0px !important; /* Set margin-bottom to 0 */
-    padding: 0px !important; /* Ensure no padding */
+    margin-bottom: 5px !important;
+    padding: 0 !important;
 }
 
-.experience-entry + .experience-entry {
-    margin-top: 0px !important; /* Ensure no additional space between consecutive entries */
-    padding-top: 0px !important; /* Ensure no additional padding-top */
+.experience-entry h3 {
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-.experience-entry:last-of-type {
-    margin-bottom: 0px !important; /* Remove margin-bottom for the last entry */
-    padding-bottom: 0px !important; /* Remove padding-bottom for the last entry */
-}
-
-.experience-entry * {
-    margin: 0px !important; /* Ensure no margin for all child elements */
-    padding: 0px !important; /* Ensure no padding for all child elements */
+.experience-entry p {
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 ul, li {
-    margin: 0px !important; /* Ensure no margin for list items */
-    padding: 0px !important; /* Ensure no padding for list items */
-}
-
-.experience-entry > p {
-    margin: 0px !important; /* Ensure no margin for paragraphs */
-    padding: 0px !important; /* Ensure no padding for paragraphs */
-}
-
-/* Additional tweaks to reduce spacing further */
-.experience-entry div {
     margin: 0 !important;
     padding: 0 !important;
 }
 
-.experience-entry span {
-    margin: 0 !important;
-    padding: 0 !important;
+.experience-entry + .experience-entry {
+    margin-top: 5px !important;
+    padding-top: 0 !important;
+}
+
+.experience-entry:last-of-type {
+    margin-bottom: 0px !important;
+    padding-bottom: 0 !important;
 }
