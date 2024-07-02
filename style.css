@@ -89,16 +89,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 3px; /* Further reduce spacing after headers */
 }
 
-.pro-skills {
-    text-indent: -9999px;
-    opacity: 0.01;
-    color: rgba(67, 70, 84, 0.01);
-}
-
 .experience-education-space {
-    margin-bottom: 6px; /* Adjust this value for smaller space */
+    margin-bottom: 3px; /* Adjust this value for smaller space */
 }
 
 .experience-entry {
-    margin-bottom: 10px; /* Adjust this value for more space between entries */
+    margin-bottom: 5px; /* Adjust this value for more space between entries */
 }
