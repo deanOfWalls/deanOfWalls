@@ -90,9 +90,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .experience-education-space {
-    margin-bottom: 3px; /* Adjust this value for smaller space */
+    margin-bottom: 2px; /* Adjust this value for smaller space */
 }
 
 .experience-entry {
-    margin-bottom: 2px; /* Adjust this value for more space between entries */
+    margin-bottom: 1px; /* Adjust this value for more space between entries */
 }
