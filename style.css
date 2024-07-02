@@ -96,3 +96,11 @@ h1, h2, h3, h4, h5, h6 {
 .experience-entry {
     margin-bottom: 0px !important; /* Adjust this value for more space between entries */
 }
+
+.experience-entry + .experience-entry {
+    margin-top: 0px !important; /* Ensure no additional space between consecutive entries */
+}
+
+.experience-entry:last-of-type {
+    margin-bottom: 0px !important; /* Remove margin-bottom for the last entry */
+}
