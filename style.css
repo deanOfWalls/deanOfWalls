@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
-code, pre { 
-    font-family: 'Sora', sans-serif; 
-    color: #2f68e1; 
-    font-size: 12px; 
-    overflow-x: auto; 
+code, pre {
+    font-family: 'Sora', sans-serif;
+    color: #2f68e1;
+    font-size: 12px;
+    overflow-x: auto;
 }
 
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(67, 70, 84);
-    line-height: 1.4 !important; /* Adjust line height for readability */
+    line-height: 1.2 !important; /* Slightly increase line height */
     font-size: 13px;
     margin: 0;
     padding: 0;
@@ -27,7 +27,7 @@ ul li a {
 
 main, .main, .content, .post-content {
     background-color: white;
-    padding: 5px; /* Further reduce padding */
+    padding: 5px; /* Reduce padding */
 }
 
 .header, ::before, header h1, footer {
@@ -40,7 +40,7 @@ header, footer {
 
 .content-wrapper {
     background-color: white;
-    padding: 5px; /* Further reduce padding */
+    padding: 5px; /* Reduce padding */
 }
 
 .markdown-body .post-content a {
@@ -86,13 +86,13 @@ h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 5px; /* Adjust spacing after headers */
+    margin-bottom: 4px; /* Slightly reduce spacing after headers */
 }
 
 .experience-education-space {
-    margin-bottom: 8px; /* Adjust this value for better spacing */
+    margin-bottom: 4px; /* Adjust this value for smaller space */
 }
 
 .experience-entry {
-    margin-bottom: 10px; /* Adjust this value for more space between entries */
+    margin-bottom: 7px; /* Adjust this value for balanced space between entries */
 }
