@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .experience-entry {
     margin-bottom: 0px !important; /* Set margin-bottom to 0 */
-    padding-top: 0px !important; /* Set padding-top to 0 */
+    padding: 0 !important; /* Ensure no padding */
 }
 
 .experience-entry + .experience-entry {
@@ -107,4 +107,9 @@ h1, h2, h3, h4, h5, h6 {
 .experience-entry:last-of-type {
     margin-bottom: 0px !important; /* Remove margin-bottom for the last entry */
     padding-bottom: 0px !important; /* Remove padding-bottom for the last entry */
+}
+
+.experience-entry * {
+    margin: 0 !important; /* Ensure no margin for all child elements */
+    padding: 0 !important; /* Ensure no padding for all child elements */
 }
