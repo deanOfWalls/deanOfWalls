@@ -49,6 +49,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
 * Maintain security and safety of personnel and property through constant surveillance and proactive measures.
+
 ### [02/2023 - 05/2023] Student Software Developer - Zip Code Wilmington; DE
 * 1000+ hours in Java, test-driven development, full-stack development, and AGILE methodologies.
 
