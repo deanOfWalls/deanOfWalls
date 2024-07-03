@@ -44,8 +44,15 @@
                 display: none; /* Hide download button when printing */
             }
             iframe {
-                height: 100vh; /* Make iframe take full height for printing */
+                display: none; /* Hide iframe when printing */
             }
+            .print-link {
+                display: block; /* Show print link when printing */
+            }
+        }
+
+        .print-link {
+            display: none; /* Hide print link by default */
         }
     </style>
 </head>
@@ -56,5 +63,6 @@
         </a>
     </div>
     <iframe src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
+    <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
 </body>
 </html>
