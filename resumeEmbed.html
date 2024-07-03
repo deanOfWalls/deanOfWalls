@@ -14,13 +14,16 @@
             height: 100vh;
             box-sizing: border-box;
         }
+        .download-button {
+            margin: 10px 0;
+            position: fixed;
+            top: 10px;
+            z-index: 1000;
+        }
         iframe {
             width: 100%;
             height: calc(100vh - 60px); /* Adjust iframe height to leave space for the button */
             border: none;
-        }
-        .download-button {
-            margin: 10px 0;
         }
         button {
             padding: 10px 20px;
@@ -37,11 +40,11 @@
     </style>
 </head>
 <body>
-    <iframe src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true"></iframe>
     <div class="download-button">
-        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="DeanWalls_Resume.pdf">
+        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="YourName_Resume.pdf">
             <button>Download Resume</button>
         </a>
     </div>
+    <iframe src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
 </body>
 </html>
