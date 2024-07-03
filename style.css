@@ -89,6 +89,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 2px; /* Further reduce spacing after headers */
 }
 
+ul {
+    margin-bottom: 1px; /* Reduce space after list items */
+}
+
 .experience-education-space {
     margin-bottom: 1px; /* Adjust this value for smaller space */
 }
