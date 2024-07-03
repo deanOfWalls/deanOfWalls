@@ -37,6 +37,16 @@
         button:hover {
             background-color: #0056b3;
         }
+
+        /* Print styles */
+        @media print {
+            .download-button {
+                display: none; /* Hide download button when printing */
+            }
+            iframe {
+                height: 100vh; /* Make iframe take full height for printing */
+            }
+        }
     </style>
 </head>
 <body>
