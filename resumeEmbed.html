@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+        iframe {
+            width: 100%;
+            height: calc(100vh - 50px); /* Adjust iframe height to leave space for the button */
+            border: none;
+        }
+        .download-button {
+            margin: 10px 0;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="resume.pdf"></iframe>
+    <div class="download-button">
+        <a href="resume.pdf" download="YourName_Resume.pdf">
+            <button>Download Resume</button>
+        </a>
+    </div>
+</body>
+</html>
