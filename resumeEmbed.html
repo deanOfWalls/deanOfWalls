@@ -9,15 +9,26 @@
         function downloadAsPDF() {
             window.location.href = 'resume.pdf';
         }
+
+        function reloadIframe() {
+            var iframe = document.getElementById('resumeIframe');
+            iframe.src = iframe.src;
+        }
+        
+        window.onload = function() {
+            reloadIframe();
+        };
     </script>
 </head>
 <body>
-    <div class="download-button">
-        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean_Walls_Resume.pdf">
-            <button>Download Resume</button>
-        </a>
+    <div class="container">
+        <div class="download-button">
+            <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean_Walls_Resume.pdf">
+                <button>Download Resume</button>
+            </a>
+        </div>
+        <iframe id="resumeIframe" src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
+        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
     </div>
-    <iframe src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
-    <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
 </body>
 </html>
