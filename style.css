@@ -15,12 +15,10 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     height: 100vh;
     box-sizing: border-box;
-    background-color: transparent;
 }
 
 ul li a {
@@ -68,9 +66,9 @@ header, footer {
 
 @media screen {
     body {
-        transform: scale(1.5);
+        transform: scale(1.0);
         transform-origin: top center;
-        width: calc(100% / 1.5);
+        width: 100%;
         margin: 0 auto;
         overflow-x: hidden;
     }
@@ -133,6 +131,18 @@ h2, h3 {
 }
 
 /* New styles added */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(67, 70, 84);
+}
+
 .download-button {
     margin: 10px 0;
     background-color: transparent;
@@ -140,7 +150,7 @@ h2, h3 {
 
 iframe {
     width: 100%;
-    height: calc(100vh - 90px);
+    height: calc(100vh - 100px);
     border: none;
     background-color: transparent;
 }
