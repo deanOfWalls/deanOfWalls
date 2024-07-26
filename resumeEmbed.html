@@ -3,62 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            height: 100vh;
-            box-sizing: border-box;
-            background-color: transparent; /* Transparent background for body */
+    <title>Resume - Dean Walls</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script>
+        function downloadAsPDF() {
+            window.location.href = 'resume.pdf';
         }
-        .download-button {
-            margin: 10px 0;
-            background-color: transparent; /* Transparent background for button container */
-        }
-        iframe {
-            width: 100%;
-            height: calc(100vh - 90px); /* Adjust iframe height to leave space for the button */
-            border: none;
-            background-color: transparent; /* Transparent background for iframe */
-        }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            border-radius: 5px;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        /* Print styles */
-        @media print {
-            .download-button {
-                display: none; /* Hide download button when printing */
-            }
-            iframe {
-                display: none; /* Hide iframe when printing */
-            }
-            .print-link {
-                display: block; /* Show print link when printing */
-            }
-        }
-
-        .print-link {
-            display: none; /* Hide print link by default */
-        }
-    </style>
+    </script>
 </head>
 <body>
     <div class="download-button">
-        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="YourName_Resume.pdf">
+        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean_Walls_Resume.pdf">
             <button>Download Resume</button>
         </a>
     </div>
