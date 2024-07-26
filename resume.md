@@ -45,7 +45,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 
 ## Experience
 ### [06/2024 - Present] Software Engineer Intern - Sunstates Security; DE
-* Work on software engineering tasks, contribute to internal projects, and gain practical experience in full-stack development.
+* Built an internal lab sample analysis tool enabling employees to schedule samples and update their status with QR codes, streamlining workflows and improving operational efficiency.
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
 * Maintain security and safety of personnel and property through constant surveillance and proactive measures.
