@@ -12,25 +12,11 @@
 
         function reloadIframe() {
             var iframe = document.getElementById('resumeIframe');
-            iframe.src = iframe.src;
-        }
-
-        function checkIframeLoaded() {
-            var iframe = document.getElementById('resumeIframe');
-            var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-
-            if (iframeDocument.readyState === 'complete') {
-                return;
-            } else {
-                iframe.onload = function() {
-                    clearInterval(intervalId);
-                };
-            }
+            iframe.src = 'https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150';
         }
 
         window.onload = function() {
             reloadIframe();
-            var intervalId = setInterval(checkIframeLoaded, 1000);
         };
     </script>
 </head>
@@ -41,7 +27,7 @@
                 <button>Download Resume</button>
             </a>
         </div>
-        <iframe id="resumeIframe" src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
+        <iframe id="resumeIframe" style="width: 100%; height: calc(100vh - 100px); border: none;"></iframe>
         <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
     </div>
 </body>
