@@ -66,9 +66,9 @@ header, footer {
 
 @media screen {
     body {
-        transform: scale(1.5);
+        transform: scale(1.2);
         transform-origin: top center;
-        width: calc(100% / 1.5);
+        width: calc(100% / 1.2);
         margin: 0 auto;
         overflow-x: hidden;
     }
@@ -138,6 +138,7 @@ iframe {
     width: 100%;
     height: calc(100vh - 60px);
     border: none;
+    background-color: transparent;
 }
 
 button {
