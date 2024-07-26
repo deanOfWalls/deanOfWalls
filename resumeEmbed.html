@@ -3,51 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume - Dean Walls</title>
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script>
-        function downloadAsPDF() {
-            window.location.href = 'resume.pdf';
-        }
-
-        function loadPDF(retries) {
-            const iframe = document.getElementById('pdf-iframe');
-            const url = 'https://deanofwalls.github.io/deanOfWalls/resume.pdf';
-            iframe.src = url;
-
-            iframe.onload = () => {
-                console.log('PDF loaded successfully.');
-                document.getElementById('pdf-fallback').style.display = 'none';
-                iframe.style.display = 'block';
-            };
-
-            iframe.onerror = () => {
-                if (retries > 0) {
-                    console.log(`Retrying... (${retries} attempts left)`);
-                    setTimeout(() => loadPDF(retries - 1), 1000);
-                } else {
-                    console.error('Failed to load PDF after multiple attempts.');
-                    const fallback = document.getElementById('pdf-fallback');
-                    fallback.style.display = 'block';
-                    iframe.style.display = 'none';
-                }
-            };
-        }
-
-        window.onload = function() {
-            loadPDF(3); // Retry loading PDF up to 3 times
-        };
-    </script>
+    <title>Resume</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <div class="download-button">
-            <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean_Walls_Resume.pdf">
-                <button>Download Resume</button>
-            </a>
-        </div>
-        <iframe id="pdf-iframe" style="display:none;" frameborder="0" width="100%" height="100%"></iframe>
-        <div id="pdf-fallback" style="display: none; color: white;">
-            Failed to load PDF. Please try refreshing the page or <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean_Walls_Resume.pdf" style="color: #007BFF;">download it here</a>.
-        </div>
-        <a href="https://deanofwalls.github.io/deanOfWalls/res
+    <div class="download-button">
+        <a href="https://deanofwalls.github.io/deanOfWalls/Dean_Walls_Resume.pdf" download="Dean_Walls_Resume.pdf">
+            <button>Download Resume</button>
+        </a>
+    </div>
+    <iframe src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/Dean_Walls_Resume.pdf&embedded=true" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+</body>
+</html>
