@@ -9,6 +9,29 @@
         function downloadAsPDF() {
             window.location.href = 'resume.pdf';
         }
+
+        function reloadIframe() {
+            var iframe = document.getElementById('resumeIframe');
+            iframe.src = iframe.src;
+        }
+
+        function checkIframeLoaded() {
+            var iframe = document.getElementById('resumeIframe');
+            var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+
+            if (iframeDocument.readyState === 'complete') {
+                return;
+            } else {
+                iframe.onload = function() {
+                    clearInterval(intervalId);
+                };
+            }
+        }
+
+        window.onload = function() {
+            reloadIframe();
+            var intervalId = setInterval(checkIframeLoaded, 1000);
+        };
     </script>
 </head>
 <body>
