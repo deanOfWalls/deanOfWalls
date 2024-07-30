@@ -61,3 +61,5 @@ Entry-level Full-Stack Developer with a diverse background in commercial driving
 | 2023 | Curriculeon                                                                              | Software Development Mentorship    |
 | 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf)                                     | Software Development               |
 | 2014 | [Delaware Technical and Community College](lpnDiploma.pdf)                                | Nursing                            |
+
+<!-- outdated -->
