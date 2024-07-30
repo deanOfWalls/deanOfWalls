@@ -44,7 +44,7 @@ Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; 
 * Configured Apache web server, SSL certificates, and file server, as well as portfolio and project deployments.
 
 ## Experience
-### [06/2024 - Present] Software Engineer Intern - Sunstates Security; DE
+### [06/2024 - Present] Software Engineer Intern - Air Liquide; DE
 * Built an internal lab sample analysis tool enabling employees to schedule samples and update their status with QR codes, streamlining workflows and improving operational efficiency.
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
