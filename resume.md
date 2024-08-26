@@ -16,7 +16,7 @@
 [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | [`302-241-3736`](tel:+1-302-241-3736) | [`https://deanwalls.com`](https://deanwalls.com) | [`LinkedIn`](https://www.linkedin.com/in/deanofwalls/) | [`GitHub`](https://github.com/deanOfWalls)
 
 ## Technical Skills
-Java &bull; Spring Boot &bull; JUnit &bull; JavaScript &bull; TypeScript &bull; React &bull; C# &bull; .NET &bull; ASP.NET Core &bull; HTML &bull; CSS &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Postman &bull; Jira &bull; Maven &bull; REST API &bull; JSON &bull; Linux
+Java &bull; Spring Boot &bull; Maven &bull; JUnit &bull; REST API &bull; JSON &bull; JavaScript &bull; TypeScript &bull; React &bull; HTML &bull; CSS &bull; C# &bull; .NET &bull; ASP.NET Core &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Nginx &bull; Linux &bull; Postman &bull; Jira
 
 ## Professional Summary
 * Full-Stack Developer experienced in Java and Spring Boot, passionate about creating personal projects that enhance everyday computing and lifestyle routines.
