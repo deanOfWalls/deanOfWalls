@@ -1,39 +1,38 @@
-<!-- Markdown and HTML mix to potentially enhance document styling when rendered in environments that support HTML -->
-
 <div class="header-bar"></div>
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 <script>
     function downloadAsPDF() {
-        // Assuming the PDF file is named 'resume.pdf' and resides in the same directory as your README.md
         window.location.href = 'resume.pdf';
     }
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
 ## Christopher Dean Walls  
-deanofwalls@gmail.com | 302-241-3736 | https://deanwalls.com 
+deanofwalls@gmail.com | 302-241-3736 | https://deanwalls.com
 
-[06/27/2024]
+[08/28/2024]
 
-Hiring Manager  
+Hiring Team  
 RouteOne  
-31500 Northwestern Hwy, Suite 300, Farmington Hills, MI 48334  
+Farmington Hills, MI, US
 
-Dear Hiring Manager,
+Dear Hiring Team,
 
-I am writing to express my interest in the Software Engineer - .NET position at RouteOne. With a solid background in full-stack development and a passion for creating high-performance web applications, I am eager to bring my skills and dedication to your Agile development team.
+I am writing to express my interest in the DevOps Engineer position at RouteOne. With a strong foundation in system administration, automation, and full-stack development, I am excited about the opportunity to contribute to your team’s operations, particularly in enhancing RouteOne’s infrastructure and deployment processes.
 
-### Technical Skills and Experience
-I have hands-on experience with .NET Standard, .NET Framework, and .NET Core, as well as client-side web development using HTML 5, SCSS, JavaScript, TypeScript, and Angular. My personal projects, such as **InPlainSight**—an image steganography tool—and **Bachelor Strength**—a fitness calculator and workout routine app—demonstrate my ability to create functional and user-friendly applications. These projects have strengthened my skills in both front-end and back-end development, aligning well with the requirements of this role.
+### Extending Infrastructure and Automation
+My experience in extending infrastructure and automating deployment processes aligns well with the responsibilities outlined for this role. As a Software Engineer Intern at Air Liquide, I have built internal tools that streamline workflows and improve operational efficiency, applying my skills in Java, Spring Boot, and Docker to ensure reliable and scalable application deployment.
 
-### Commitment to Learning and Development
-I have dedicated over 1000 hours to developing my skills in Java, test-driven development, full-stack development, and AGILE methodologies through my training at Zip Code Wilmington. This intensive training has equipped me with a strong foundation in software development practices and a commitment to continuous improvement. I am also experienced in troubleshooting and resolving application defects within mature production systems.
+### DevOps Practices and Collaboration
+I am passionate about automating processes and applying best practices in system operations. My experience with Unix/Linux shell scripting and SQL has allowed me to streamline workflows and manage data-centric applications effectively. I have also been involved in provisioning environments and collaborating closely with development teams to ensure that applications run smoothly in production.
 
-### Alignment with RouteOne's Values
-RouteOne’s focus on building high-quality, standards-based systems and your commitment to Agile methodologies resonate with my professional values. I am particularly impressed by your emphasis on collaborative design and code reviews, which I believe are crucial for developing robust and scalable applications. I am excited about the opportunity to contribute to and grow within such a forward-thinking environment.
+### Commitment to Security and Best Practices
+Maintaining security and operational standards has always been a priority in my roles. I am committed to continuous learning and have been proactive in staying updated with best practices in infrastructure management and operational methodology.
 
-### Enthusiastic and Ready to Contribute
-I am confident that my technical skills, combined with my dedication to continuous learning and collaboration, make me a strong candidate for this position. Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to RouteOne.
+### Enthusiasm for RouteOne's Mission
+RouteOne’s focus on delivering efficient, secure solutions in the automotive finance industry resonates with me, and I am eager to bring my skills in automation, system administration, and operational excellence to your team. I look forward to contributing to the continued success of your platform and helping RouteOne achieve its goals.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and skills can contribute to RouteOne.
 
 Sincerely,
 
