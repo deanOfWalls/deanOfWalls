@@ -23,9 +23,9 @@ Java &bull; Spring Boot &bull; Maven &bull; JUnit &bull; REST API &bull; JSON &b
 * Proficient in coding, debugging, and managing full-stack web applications.
 
 ## Personal Projects
-### InPlainSight - [Live demo](https://inplainsight.deanwalls.com)
-* Java, Spring Boot, JavaScript, HTML, Thymeleaf, CSS.
-* Image steganography tool using Docker. Conceal and reveal images with password protection.
+### HideMy.pics - [Live demo](https://hidemy.pics)
+* Java, Spring Boot, JavaScript, HTML, Thymeleaf, CSS, Alpine Linux, Nginx.
+* Image steganography tool using Docker. Conceal and reveal images with password protection. Share via email or self-destructing links.
 
 ### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com)
 * Java, Spring Boot, jQuery, H2.
