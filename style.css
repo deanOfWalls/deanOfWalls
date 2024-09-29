@@ -1,20 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
 code, pre {
-    font-family: 'Sora', sans-serif;
+    font-family: 'Calibri', sans-serif;
     color: #2f68e1;
     font-size: 12px;
     overflow-x: auto;
 }
 
 body {
-    font-family: 'Sora', sans-serif;
+    font-family: 'Calibri', sans-serif;
     background-color: rgb(67, 70, 84);
     line-height: 1.1 !important; /* Adjust line height for better readability */
     font-size: 12px; /* Slightly reduce font size */
     margin: 0;
     padding: 0;
 }
+
 
 ul li a {
     color: #2f68e1 !important;
