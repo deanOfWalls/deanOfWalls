@@ -4,7 +4,7 @@
 
 <img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&hide_rank=true&hide=stars,contribs&show_icons=true&theme=react">
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3775623" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/deanofwalls.png" alt="Your Image Badge" />
 
 
 
