@@ -19,13 +19,10 @@
             margin: 10px 0;
             background-color: transparent;
         }
-        .loading-message, .error-message {
+        .loading-message {
             font-size: 18px;
             color: #555;
             margin-top: 20px;
-        }
-        .error-message {
-            color: red;
         }
         iframe {
             width: 100%;
@@ -68,28 +65,26 @@
         </a>
     </div>
     <div id="loading-message" class="loading-message">Loading Resume...</div>
-    <div id="error-message" class="error-message" style="display: none;">Failed to load the resume. Please try refreshing the page.</div>
     <iframe id="resume-frame" src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
     <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
 
     <script>
         const iframe = document.getElementById('resume-frame');
         const loadingMessage = document.getElementById('loading-message');
-        const errorMessage = document.getElementById('error-message');
         const loadTimeout = 5000; // 5 seconds
 
-        // Function to display iframe or show an error after timeout
+        // Function to display iframe if it loads successfully
         function handleIframeLoad() {
             loadingMessage.style.display = 'none';
             iframe.style.display = 'block';
         }
 
+        // Function to refresh the page if the iframe fails to load
         function handleIframeError() {
-            loadingMessage.style.display = 'none';
-            errorMessage.style.display = 'block';
+            location.reload(); // Reload the page
         }
 
-        // Set up a timeout to handle failed load scenario
+        // Set a timeout to refresh if the iframe hasn't loaded
         setTimeout(() => {
             if (iframe.style.display !== 'block') {
                 handleIframeError();
