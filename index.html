@@ -72,22 +72,23 @@
         const iframe = document.getElementById('resume-frame');
         const loadingMessage = document.getElementById('loading-message');
         let retryAttempts = 0;
+        const maxRetries = 2;
 
         function checkIframeLoaded() {
-            const doc = iframe.contentDocument || iframe.contentWindow.document;
-            if (doc && doc.body && doc.body.childNodes.length === 0) { // Checks for empty body
-                retryAttempts++;
-                if (retryAttempts <= 2) {
-                    location.reload();
-                }
-            } else {
-                loadingMessage.style.display = 'none'; // Hide loading message
-                iframe.style.display = 'block'; // Show iframe once loaded
+            retryAttempts++;
+            if (retryAttempts > maxRetries) {
+                location.reload(); // Reload if max retries exceeded
             }
         }
 
-        // Check if the iframe has loaded after a delay
-        setTimeout(checkIframeLoaded, 3000); // Check after 3 seconds
+        iframe.onload = function() {
+            // Hide loading message and show iframe once loaded
+            loadingMessage.style.display = 'none';
+            iframe.style.display = 'block';
+        };
+
+        // Fallback to check if iframe has loaded after delay, and retry if needed
+        setTimeout(checkIframeLoaded, 3000); // Retry every 3 seconds
     </script>
 </body>
 </html>
