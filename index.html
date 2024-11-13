@@ -19,10 +19,13 @@
             margin: 10px 0;
             background-color: transparent;
         }
-        .loading-message {
+        .loading-message, .error-message {
             font-size: 18px;
             color: #555;
             margin-top: 20px;
+        }
+        .error-message {
+            color: red;
         }
         iframe {
             width: 100%;
@@ -65,35 +68,36 @@
         </a>
     </div>
     <div id="loading-message" class="loading-message">Loading Resume...</div>
+    <div id="error-message" class="error-message" style="display: none;">Failed to load the resume. Please try refreshing the page.</div>
     <iframe id="resume-frame" src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
     <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
 
     <script>
         const iframe = document.getElementById('resume-frame');
         const loadingMessage = document.getElementById('loading-message');
-        let retryAttempts = 0;
-        const maxRetries = 3;
-        const retryInterval = 2000; // 2 seconds between checks
+        const errorMessage = document.getElementById('error-message');
+        const loadTimeout = 5000; // 5 seconds
 
-        function checkIframeLoaded() {
-            const doc = iframe.contentDocument || iframe.contentWindow.document;
-
-            if (doc && doc.body && doc.body.childNodes.length > 0) {
-                // Content is loaded, hide loading message and display iframe
-                loadingMessage.style.display = 'none';
-                iframe.style.display = 'block';
-            } else if (retryAttempts < maxRetries) {
-                // Retry loading
-                retryAttempts++;
-                setTimeout(checkIframeLoaded, retryInterval);
-            } else {
-                // Max retries exceeded, reload the page
-                location.reload();
-            }
+        // Function to display iframe or show an error after timeout
+        function handleIframeLoad() {
+            loadingMessage.style.display = 'none';
+            iframe.style.display = 'block';
         }
 
-        // Initial check and set up retries
-        setTimeout(checkIframeLoaded, retryInterval);
+        function handleIframeError() {
+            loadingMessage.style.display = 'none';
+            errorMessage.style.display = 'block';
+        }
+
+        // Set up a timeout to handle failed load scenario
+        setTimeout(() => {
+            if (iframe.style.display !== 'block') {
+                handleIframeError();
+            }
+        }, loadTimeout);
+
+        // If the iframe successfully loads, handleIframeLoad is called
+        iframe.onload = handleIframeLoad;
     </script>
 </body>
 </html>
