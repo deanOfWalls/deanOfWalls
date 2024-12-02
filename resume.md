@@ -42,7 +42,7 @@ Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript �
 
 ### Lenovo M93p Home Server Setup
 * Alpine Linux, Apache2 Web Server, SSL.
-* Configured Apache web server, SSL certificates, and file server, as well as portfolio and project deployments.
+* Configured Nginx web server, SSL certificates, Fail2Ban, and file server, as well as portfolio and project deployments.
 
 ## Experience
 ### [06/2024 - Present] Software Engineer Intern - Air Liquide; DE
