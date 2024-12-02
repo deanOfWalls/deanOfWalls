@@ -5,8 +5,6 @@
 <img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&hide_rank=true&hide=stars,contribs&show_icons=true&theme=react">
 
 
-
-
 _Click [here](https://deanofwalls.github.io/deanOfWalls/resume.html) to view full portfolio_
 
 

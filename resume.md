@@ -16,11 +16,12 @@
 [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com) | [`302-241-3736`](tel:+1-302-241-3736) | [`https://deanwalls.com`](https://deanwalls.com) | [`LinkedIn`](https://www.linkedin.com/in/deanofwalls/) | [`GitHub`](https://github.com/deanOfWalls)
 
 ## Technical Skills
-Java &bull; Spring Boot &bull; Maven &bull; JUnit &bull; REST API &bull; JSON &bull; JavaScript &bull; TypeScript &bull; React &bull; HTML &bull; CSS &bull; C# &bull; .NET &bull; ASP.NET Core &bull; SQL &bull; Selenium &bull; Docker &bull; Git &bull; Nginx &bull; Linux &bull; Postman &bull; Jira
+Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript • HTML • CSS • SQL • Docker • Git • Nginx • Linux • Postman
 
 ## Professional Summary
-* Full-Stack Developer experienced in Java and Spring Boot, passionate about creating personal projects that enhance everyday computing and lifestyle routines.
-* Proficient in coding, debugging, and managing full-stack web applications.
+* Full-Stack Developer experienced in Java and Spring Boot, passionate about creating projects that enhance everyday computing and lifestyle routines.
+* Proficient in coding, debugging, deploying, and managing full-stack web applications.
+* Enjoys turning ideas into reality through innovative personal projects and problem-solving.
 
 ## Personal Projects
 ### HideMy.pics - [Live demo](https://hidemy.pics)

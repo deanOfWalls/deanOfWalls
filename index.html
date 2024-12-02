@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            box-sizing: border-box;
+            background-color: transparent;
+        }
+        .download-button {
+            margin: 10px 0;
+            background-color: transparent;
+        }
+        .loading-message {
+            font-size: 18px;
+            color: #555;
+            margin-top: 20px;
+        }
+        iframe {
+            width: 100%;
+            height: calc(100vh - 90px);
+            border: none;
+            display: none; /* Hide initially until loaded */
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        @media print {
+            .download-button {
+                display: none;
+            }
+            iframe {
+                display: none;
+            }
+            .print-link {
+                display: block;
+            }
+        }
+        .print-link {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="download-button">
+        <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" download="Dean-Walls-Resume.pdf">
+            <button>Download Resume</button>
+        </a>
+    </div>
+    <div id="loading-message" class="loading-message">Loading Resume...</div>
+    <iframe id="resume-frame" src="https://docs.google.com/viewer?url=https://deanofwalls.github.io/deanOfWalls/resume.pdf&embedded=true&zoom=150"></iframe>
+    <a href="https://deanofwalls.github.io/deanOfWalls/resume.pdf" class="print-link">Print Resume</a>
+
+    <script>
+        const iframe = document.getElementById('resume-frame');
+        const loadingMessage = document.getElementById('loading-message');
+        const loadTimeout = 5000; // 5 seconds
+
+        // Function to display iframe if it loads successfully
+        function handleIframeLoad() {
+            loadingMessage.style.display = 'none';
+            iframe.style.display = 'block';
+        }
+
+        // Function to refresh the page if the iframe fails to load
+        function handleIframeError() {
+            location.reload(); // Reload the page
+        }
+
+        // Set a timeout to refresh if the iframe hasn't loaded
+        setTimeout(() => {
+            if (iframe.style.display !== 'block') {
+                handleIframeError();
+            }
+        }, loadTimeout);
+
+        // If the iframe successfully loads, handleIframeLoad is called
+        iframe.onload = handleIframeLoad;
+    </script>
+</body>
+</html>
