@@ -28,7 +28,7 @@ Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript �
 * Java, Spring Boot, JavaScript, HTML, Thymeleaf, CSS, Alpine Linux, Nginx.
 * Image steganography tool using Docker. Conceal and reveal images with password protection. Share via email or self-destructing links.
 
-### CRUD Demo - [Live demo](https://crud_demo.deanwalls.com)
+### CRUD Demo - [Live demo](http://crud_demo.deanwalls.com)
 * Java, Spring Boot, jQuery, H2.
 * Demonstrates CRUD operations (Create, Read, Update, Delete) via a RESTful API on entries in an H2 database with a dynamic front-end using AJAX interactions.
 
