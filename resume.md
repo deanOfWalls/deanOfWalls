@@ -46,7 +46,7 @@ Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript �
 
 ## Experience
 ### [06/2024 - Present] Software Engineer Intern - Air Liquide; DE
-* Built an internal lab sample analysis tool enabling employees to schedule samples and update their status with QR codes, streamlining workflows and improving operational efficiency.
+* Built a Lab Sample Analysis Tool using Java and Spring Boot, integrating MySQL with JPA/Hibernate and a Thymeleaf-based frontend. Streamlined workflows with QR code sample scheduling and status updates, enhancing operational efficiency. Utilized RestTemplate for HTTP client API calls, JSON parsing with Jackson, and CSV file handling
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
 * Maintain security and safety of personnel and property through constant surveillance and proactive measures.
