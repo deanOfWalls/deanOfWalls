@@ -45,7 +45,7 @@ Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript �
 * Configured Nginx web server, SSL certificates, Fail2Ban, and file server, as well as portfolio and project deployments.
 
 ## Experience
-### [06/2024 - Present] Software Engineer Intern - Air Liquide; DE
+### [06/2024 - 12/2024] Software Engineer Intern - Air Liquide; DE
 * Built a Lab Sample Analysis Tool using Java and Spring Boot, integrating MySQL with JPA/Hibernate and a Thymeleaf-based frontend. Streamlined workflows with QR code sample scheduling and status updates, enhancing operational efficiency. Utilized RestTemplate for HTTP client API calls, JSON parsing with Jackson, and CSV file handling
 
 ### [01/2024 - Present] Security Officer - Sunstates Security; DE
