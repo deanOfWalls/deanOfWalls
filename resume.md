@@ -59,6 +59,6 @@ Java • Spring Boot • Maven • JUnit • REST API • JSON • JavaScript �
 
 | Year | Institution/Organization | Program/Course |
 |------|---------------------------|----------------|
-| 2024 | [Curriculeon](curriculeon_certificate.pdf) | Intermediate Full Stack Web Development |
-| 2023 | [Zip Code Wilmington (Coding Boot Camp)](zipcode.pdf) | Software Development |
-| 2014 | [Delaware Technical and Community College](lpnDiploma.pdf) | Nursing |
+| 2024 | [Curriculeon](./credentials/curriculeon_certificate.pdf) | Intermediate Full Stack Web Development |
+| 2023 | [Zip Code Wilmington (Coding Boot Camp)](./credentials/zipcode.pdf) | Software Development |
+| 2014 | [Delaware Technical and Community College](./credentials/lpnDiploma.pdf) | Nursing |
